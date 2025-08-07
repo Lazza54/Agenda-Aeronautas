@@ -1,0 +1,17 @@
+{
+    "tipos_treinamentos": [
+        "ALA", "ANC", "ATR", "AV", "AVI", "AVS", "AVT", "CA2", "CA3",
+            "CAA", "CAE", "CAP", "CB2", "CB3", "CBA", "CBE", "CCL", "CEA", "CFI",
+            "CI2", "CI3", "CIA", "CIE", "COL", "CP2", "CP3", "CPA", "CPE", "CRM",
+            "DGR", "DH", "DL", "DOB", "EGP", "ENP", "EPA", "EPI", "FIV",
+            "G3", "GCI", "GF", "GS", "ICM", "JJ", "OPT", "PC1", "PC2", "PC3",
+            "PIP", "PIV", "PP1", "PP2", "PSM", "REI", "REQ", "RPA", "RPE",
+            "RPS", "RPT", "RSP", "RTP", "SA1", "SA2", "SA3", "SAA", "SAE",
+            "SAG", "SAI", "SAM", "SAP", "SAR", "SAS", "SAT", "SAV",
+            "SCA", "SCE", "SCF", "SCI", "SCL", "SCP", "SCR", "SCS", "SCT",
+            "SDA", "SDE", "SDP", "SDR", "SDS",
+            "SIT", "SLC", "SCL", "SLF", "T20", "T30",
+            "TAI", "TEM", "TFX", "UA", "UNI" , "UPT", "UTI", "VCP", "VDA", "VDE", "VDS", "VET", "VIA", "VIE", "VIP",
+            "VIT", "VIV", "VLA", "VLI", "VLO", "VLT", "VMA", "VMO", "VPA", "VPB", "XEA", "XQ2", "XQ3"
+            ]
+        }

@@ -1,0 +1,39 @@
+RELATÓRIO DE COMPARAÇÃO DE COLUNAS
+==================================================
+
+Data: 04/07/2025 18:21:37
+Arquivo 1: G:/PROJETOS PYTHON/aeronautas_azul/AERONAUTAS/ARQUIVOS TRABALHADOS/RICARDO LAZZARINI/escala_e_ricardo_lazzarini_vcp_3394_112017_022023_COM_SUFIXO.csv
+Arquivo 2: G:/PROJETOS PYTHON/aeronautas_azul/AERONAUTAS/ARQUIVOS TRABALHADOS/RICARDO LAZZARINI/escala_e_ricardo_lazzarini_vcp_3394_112017_022023_COM_SUFIXO.csv) - CALCULOS_EM_TIMEDELTA.csv
+
+RESUMO GERAL:
+  Total de colunas analisadas: 12
+  Colunas sem problemas: 7 (58.3%)
+  Colunas com problemas: 5 (41.7%)
+
+COLUNAS COM PROBLEMAS:
+  3. Checkin:
+     - 886 valores únicos só no DF1
+     - 886 valores únicos só no DF2
+     - Taxa de igualdade baixa: 70.6%
+
+  4. Start:
+     - 1219 valores únicos só no DF1
+     - 1219 valores únicos só no DF2
+     - Taxa de igualdade baixa: 70.6%
+
+  7. End:
+     - 1219 valores únicos só no DF1
+     - 1219 valores únicos só no DF2
+     - Taxa de igualdade baixa: 70.7%
+
+  8. Checkout:
+     - 890 valores únicos só no DF1
+     - 890 valores únicos só no DF2
+     - Taxa de igualdade baixa: 70.7%
+
+  12. Crew:
+     - 4 valores únicos só no DF1
+     - 4 valores únicos só no DF2
+
+DISTRIBUIÇÃO POR TIPO:
+  Texto: 12 colunas

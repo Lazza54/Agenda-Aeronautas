@@ -1,0 +1,74 @@
+# FUNÇÃO PARA DETERMINAR DIRETORIO DE ARQUIVO E NOME DO ARQUIVO A SER UTILIZADO
+
+def selecionar_diretorio():
+    root = Tk()
+    root.withdraw()  # Oculta a janela principal
+    
+    messagebox.showinfo("Seleção de Diretório", "Selecione o diretório onde estão os arquivos necessários.")
+
+    path = filedialog.askdirectory()
+    return path
+
+def selecionar_arquivo():
+    root = Tk()
+    root.withdraw()  # Oculta a janela principal
+
+    messagebox.showinfo("Seleção de Arquivo", "Selecione o arquivo ricardo_lazzarini_vcp_3394_112017_022023__SEGUNDA_VERSAO.csv")
+    root.update()
+
+    path = filedialog.askopenfilename()
+    return path
+
+diretorio_path = selecionar_diretorio()
+print(f"📂 Diretório selecionado com sucesso! {diretorio_path}")
+
+arquivo_path = selecionar_arquivo()
+print(f"📄 Arquivo selecionado com sucesso! {arquivo_path}")
+
+# extrair o nome do arquivo 
+nome_arquivo = os.path.basename(arquivo_path)
+print(f"Nome do arquivo selecionado: {nome_arquivo}")
+
+# extrair do nome_arquivo o que estiver até o segundo '_' descartando esse valor
+# Exemplo: '2023_10_01_Escala_Simplificada.pdf' -> '2023_10'
+# Se não houver segundo '_', manter o nome original
+partes_nome = nome_arquivo.split('_')
+if len(partes_nome) > 4:
+    nome_arquivo = '_'.join(partes_nome[0:])
+else:
+    nome_arquivo = partes_nome[0]
+
+# nome_arquivo = nome_arquivo.replace('.pdf', '.txt')  # substitui a extensão .pdf por .txt
+nome_arquivo = nome_arquivo.replace('_SEGUNDA_VERSAO', '_TERCEIRA_VERSAO')
+
+print(f"Nome do arquivo modificado: {nome_arquivo}")
+
+def gravar_arquivo(diretorio_path, nome_arquivo, conteudo):
+    if not os.path.exists(diretorio_path):
+        os.makedirs(diretorio_path)
+    
+    caminho_completo = os.path.join(diretorio_path, nome_arquivo)
+
+    escala.to_csv(caminho_completo, index=False)
+
+    print(f"Arquivo gravado com sucesso em: {caminho_completo}")
+    return caminho_completo
+
+####################################################################################################
+
+### incluir no final 
+
+#path = arquivo_path.replace('_SEGUNDA_VERSAO.csv', '_TERCEIRA_VERSAO.csv')
+#escala.to_csv(path, index=False)
+#print(' TAREFA REALIZADA COM SUCESSO :')
+# Funçã o gravar_arquivo
+diretorio_path = diretorio_path.replace('Escalas_Executadas', 'Auditoria_Calculos')
+
+# chamar a função gravar_arquivo
+conteudo_exemplo = "Este é um exemplo de conteúdo para o arquivo."
+caminho_arquivo_gravado = gravar_arquivo(diretorio_path, nome_arquivo, conteudo_exemplo)
+
+data_completa = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+
+# imprimir TAREFA CONCLUÍDA e data completa do sistema
+print(f"TAREFA CONCLUIDA COM SUCESSO: {data_completa}")

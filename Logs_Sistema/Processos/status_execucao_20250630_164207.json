@@ -1,0 +1,10 @@
+{
+  "status": "ERRO",
+  "inicio": "2025-06-30T16:42:07.433155",
+  "ultimo_heartbeat": "2025-06-30T16:42:18.511609",
+  "etapa_atual": "Cálculo de Tempos de Apresentação",
+  "progresso": 40,
+  "pid": 8836,
+  "erro": "'>' not supported between instances of 'str' and 'Timedelta'",
+  "fim": "2025-06-30T16:42:18.511609"
+}

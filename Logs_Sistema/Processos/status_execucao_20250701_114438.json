@@ -1,0 +1,10 @@
+{
+  "status": "ERRO",
+  "inicio": "2025-07-01T11:44:38.321241",
+  "ultimo_heartbeat": "2025-07-01T11:44:51.178223",
+  "etapa_atual": "Cálculo de Tempos de Jornada",
+  "progresso": 45,
+  "pid": 16324,
+  "erro": "name 'calcular_tempos_jornada' is not defined",
+  "fim": "2025-07-01T11:44:51.178223"
+}

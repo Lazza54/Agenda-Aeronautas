@@ -1,0 +1,9 @@
+{
+  "status": "EXECUTANDO",
+  "inicio": "2025-07-01T09:23:16.866494",
+  "ultimo_heartbeat": "2025-07-01T09:23:16.969994",
+  "etapa_atual": "Selecionando arquivo principal",
+  "progresso": 10,
+  "pid": 10532,
+  "erro": null
+}

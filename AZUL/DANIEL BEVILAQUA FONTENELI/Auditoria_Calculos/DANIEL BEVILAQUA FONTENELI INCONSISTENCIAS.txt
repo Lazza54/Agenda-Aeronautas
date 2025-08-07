@@ -1,0 +1,5244 @@
+Data: 2018-05-11 07:00:00
+Linha: 0
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-12 07:00:00
+Linha: 1
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-13 07:00:00
+Linha: 2
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-14 07:00:00
+Linha: 3
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-14 16:20:00
+Linha: 5
+Atividade: AD4431
+Tempo em solo: 13:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-15 10:00:00
+Linha: 6
+Atividade: SE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-16 07:00:00
+Linha: 7
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-17 17:30:00
+Linha: 10
+Atividade: AD4308
+Tempo em solo: 14:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-18 14:40:00
+Linha: 13
+Atividade: AD5087
+Tempo em solo: 15:31
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-19 15:05:00
+Linha: 16
+Atividade: AD5723
+Tempo em solo: 16:24
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-20 13:50:00
+Linha: 20
+Atividade: AD2764
+Tempo em solo: 13:31
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-21 10:25:00
+Linha: 23
+Atividade: AD5745
+Tempo em solo: 16:19
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-22 08:55:00
+Linha: 26
+Atividade: AD2715
+Tempo em solo: 14:11
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-23 06:45:00
+Linha: 27
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-24 06:45:00
+Linha: 28
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-25 18:00:00
+Linha: 29
+Atividade: R18
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-27 08:45:00
+Linha: 30
+Atividade: RES
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-27 13:45:00
+Linha: 31
+Atividade: AD4312
+Tempo em solo: 14:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-28 05:20:00
+Linha: 33
+Atividade: AD4322
+Tempo em solo: 17:50
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-29 04:50:00
+Linha: 36
+Atividade: AD4206
+Tempo em solo: 24:02
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-30 11:45:00
+Linha: 40
+Atividade: AD4303
+Tempo em solo: 14:15
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-05-31 09:35:00
+Linha: 41
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-01 09:35:00
+Linha: 42
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-02 09:35:00
+Linha: 43
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-03 09:35:00
+Linha: 44
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-04 09:35:00
+Linha: 45
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-05 09:35:00
+Linha: 46
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-06 14:00:00
+Linha: 47
+Atividade: REU
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-07 18:00:00
+Linha: 48
+Atividade: R18
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-08 20:20:00
+Linha: 49
+Atividade: AD6978
+Tempo em solo: 18:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-09 17:00:00
+Linha: 51
+Atividade: AD4010
+Tempo em solo: 19:50
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-10 18:25:00
+Linha: 53
+Atividade: AD4336
+Tempo em solo: 14:19
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-11 14:50:00
+Linha: 56
+Atividade: AD4345
+Tempo em solo: 15:43
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-12 12:40:00
+Linha: 57
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-13 12:40:00
+Linha: 58
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-14 12:40:00
+Linha: 59
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-15 13:15:00
+Linha: 60
+Atividade: R13
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-16 07:45:00
+Linha: 63
+Atividade: AD6913
+Tempo em solo: 21:55
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-17 14:30:00
+Linha: 64
+Atividade: AD5293
+Tempo em solo: 15:42
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-18 08:00:00
+Linha: 65
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-19 08:00:00
+Linha: 66
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-20 05:00:00
+Linha: 67
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-21 05:00:00
+Linha: 68
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-22 07:55:00
+Linha: 69
+Atividade: AD4080
+Tempo em solo: 13:33
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-23 01:05:00
+Linha: 70
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-24 01:05:00
+Linha: 71
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-25 01:05:00
+Linha: 72
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-26 08:00:00
+Linha: 73
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-27 06:00:00
+Linha: 75
+Atividade: AD9841
+Tempo em solo: 13:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-28 03:35:00
+Linha: 77
+Atividade: AD9841
+Tempo em solo: 17:35
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-29 07:22:00
+Linha: 78
+Atividade: AD9841
+Tempo em solo: 19:55
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-06-30 07:30:00
+Linha: 79
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-01 19:15:00
+Linha: 80
+Atividade: LH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-01 22:05:00
+Linha: 81
+Atividade: DH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-02 06:30:00
+Linha: 82
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-03 08:30:00
+Linha: 83
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-04 18:10:00
+Linha: 85
+Atividade: AD5144
+Tempo em solo: 29:19
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-06 06:05:00
+Linha: 89
+Atividade: AD2502
+Tempo em solo: 15:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-07 06:15:00
+Linha: 93
+Atividade: AD2830
+Tempo em solo: 16:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-08 06:45:00
+Linha: 98
+Atividade: AD5145
+Tempo em solo: 16:35
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-09 08:55:00
+Linha: 101
+Atividade: AD6970
+Tempo em solo: 14:47
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-10 07:30:00
+Linha: 102
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-11 15:00:00
+Linha: 103
+Atividade: AD4378
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-12 05:45:00
+Linha: 106
+Atividade: AD6905
+Tempo em solo: 31:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-13 19:25:00
+Linha: 108
+Atividade: AD2530
+Tempo em solo: 15:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-14 14:50:00
+Linha: 110
+Atividade: AD4452
+Tempo em solo: 16:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-15 12:45:00
+Linha: 112
+Atividade: AD4211
+Tempo em solo: 14:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-16 08:10:00
+Linha: 113
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-17 07:35:00
+Linha: 114
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-18 07:35:00
+Linha: 115
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-19 07:35:00
+Linha: 116
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-20 07:35:00
+Linha: 117
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-21 07:35:00
+Linha: 118
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-22 07:35:00
+Linha: 119
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-23 07:35:00
+Linha: 120
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-24 07:35:00
+Linha: 121
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-25 12:00:00
+Linha: 122
+Atividade: P12
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-26 08:15:00
+Linha: 125
+Atividade: AD4312
+Tempo em solo: 14:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-27 05:20:00
+Linha: 129
+Atividade: AD4378
+Tempo em solo: 14:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-28 05:05:00
+Linha: 132
+Atividade: AD5237
+Tempo em solo: 24:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-29 12:40:00
+Linha: 137
+Atividade: AD5238
+Tempo em solo: 17:48
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-30 15:35:00
+Linha: 140
+Atividade: AD4967
+Tempo em solo: 13:48
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-07-31 11:40:00
+Linha: 141
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-01 17:40:00
+Linha: 142
+Atividade: AVM
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-01 18:30:00
+Linha: 143
+Atividade: R18
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-02 17:30:00
+Linha: 146
+Atividade: AD4308
+Tempo em solo: 18:22
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-03 18:45:00
+Linha: 148
+Atividade: AD2530
+Tempo em solo: 14:41
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-04 16:55:00
+Linha: 150
+Atividade: AD2470
+Tempo em solo: 32:28
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-06 05:10:00
+Linha: 154
+Atividade: AD4007
+Tempo em solo: 14:02
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-07 03:45:00
+Linha: 155
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-08 03:45:00
+Linha: 156
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-09 03:45:00
+Linha: 157
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-10 03:45:00
+Linha: 158
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-11 03:45:00
+Linha: 159
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-12 03:45:00
+Linha: 160
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-13 06:15:00
+Linha: 161
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-13 12:45:00
+Linha: 162
+Atividade: AD4378
+Tempo em solo: 14:13
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-14 04:55:00
+Linha: 165
+Atividade: AD4043
+Tempo em solo: 18:10
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-15 07:40:00
+Linha: 169
+Atividade: AD9802
+Tempo em solo: 15:37
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-16 05:50:00
+Linha: 172
+Atividade: AD2641
+Tempo em solo: 27:29
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-17 17:30:00
+Linha: 175
+Atividade: AD2998
+Tempo em solo: 14:51
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-18 14:35:00
+Linha: 176
+Atividade: AD2819
+Tempo em solo: 15:40
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-19 07:40:00
+Linha: 177
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-20 07:40:00
+Linha: 178
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-21 07:40:00
+Linha: 179
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-22 07:40:00
+Linha: 180
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-23 07:40:00
+Linha: 181
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-24 12:00:00
+Linha: 182
+Atividade: P12
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-25 15:35:00
+Linha: 183
+Atividade: R15
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-26 07:00:00
+Linha: 184
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-27 09:00:00
+Linha: 185
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-28 09:00:00
+Linha: 186
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-29 09:00:00
+Linha: 187
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-30 09:00:00
+Linha: 188
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-08-31 07:55:00
+Linha: 190
+Atividade: AD2502
+Tempo em solo: 18:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-01 09:00:00
+Linha: 191
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-02 09:00:00
+Linha: 192
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-03 09:00:00
+Linha: 193
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-04 14:35:00
+Linha: 195
+Atividade: AD4081
+Tempo em solo: 12:37
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-05 09:25:00
+Linha: 196
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-06 09:25:00
+Linha: 197
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-07 18:10:00
+Linha: 198
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-08 10:00:00
+Linha: 199
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-08 18:45:00
+Linha: 200
+Atividade: DMI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-09 04:35:00
+Linha: 201
+Atividade: DMI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-10 08:00:00
+Linha: 202
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-11 08:00:00
+Linha: 203
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-12 08:00:00
+Linha: 204
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-14 00:00:00
+Linha: 205
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-15 00:00:00
+Linha: 206
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-16 00:00:00
+Linha: 207
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-17 00:00:00
+Linha: 208
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-18 00:00:00
+Linha: 209
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-19 00:00:00
+Linha: 210
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-20 00:00:00
+Linha: 211
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-21 00:00:00
+Linha: 212
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-22 00:00:00
+Linha: 213
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-23 00:00:00
+Linha: 214
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-24 00:00:00
+Linha: 215
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-25 00:00:00
+Linha: 216
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-26 00:00:00
+Linha: 217
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-27 00:00:00
+Linha: 218
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-28 00:00:00
+Linha: 219
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-29 00:00:00
+Linha: 220
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-09-30 00:00:00
+Linha: 221
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-01 00:00:00
+Linha: 222
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-02 00:00:00
+Linha: 223
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-03 00:00:00
+Linha: 224
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-04 00:00:00
+Linha: 225
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-05 00:00:00
+Linha: 226
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-06 00:00:00
+Linha: 227
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-07 00:00:00
+Linha: 228
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-08 00:00:00
+Linha: 229
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-09 00:00:00
+Linha: 230
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-10 00:00:00
+Linha: 231
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-11 00:00:00
+Linha: 232
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-12 00:00:00
+Linha: 233
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-13 00:00:00
+Linha: 234
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-14 10:00:00
+Linha: 235
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-14 12:20:00
+Linha: 237
+Atividade: AD6959
+Tempo em solo: 15:27
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-15 08:30:00
+Linha: 240
+Atividade: AD4378
+Tempo em solo: 13:27
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-16 04:45:00
+Linha: 243
+Atividade: AD2583
+Tempo em solo: 19:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-17 07:05:00
+Linha: 246
+Atividade: AD4417
+Tempo em solo: 14:44
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-18 05:30:00
+Linha: 248
+Atividade: AD9350
+Tempo em solo: 04:03
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-18 12:50:00
+Linha: 249
+Atividade: AD4417
+Tempo em solo: 14:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-19 05:10:00
+Linha: 253
+Atividade: AD9296
+Tempo em solo: 12:56
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-20 04:00:00
+Linha: 254
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-21 04:00:00
+Linha: 255
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-22 04:00:00
+Linha: 256
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-23 04:00:00
+Linha: 257
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-24 04:00:00
+Linha: 258
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-25 15:00:00
+Linha: 259
+Atividade: RES
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-25 16:50:00
+Linha: 260
+Atividade: AD4314
+Tempo em solo: 14:33
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-26 09:20:00
+Linha: 262
+Atividade: AD4083
+Tempo em solo: 12:44
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-27 05:25:00
+Linha: 263
+Atividade: SE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-28 12:35:00
+Linha: 264
+Atividade: AD6410
+Tempo em solo: 14:33
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-29 05:20:00
+Linha: 265
+Atividade: AD5719
+Tempo em solo: 13:23
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-29 20:35:00
+Linha: 267
+Atividade: AD2594
+Tempo em solo: 13:40
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-30 14:50:00
+Linha: 270
+Atividade: AD5239
+Tempo em solo: 15:11
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-10-31 12:25:00
+Linha: 271
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-01 12:25:00
+Linha: 272
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-02 16:55:00
+Linha: 274
+Atividade: AD5718
+Tempo em solo: 30:43
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-04 06:05:00
+Linha: 275
+Atividade: AD4437
+Tempo em solo: 13:49
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-04 21:35:00
+Linha: 276
+Atividade: AD2530
+Tempo em solo: 14:52
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-05 14:30:00
+Linha: 280
+Atividade: AD2530
+Tempo em solo: 15:38
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-06 15:15:00
+Linha: 283
+Atividade: AD2617
+Tempo em solo: 00:11
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-06 20:10:00
+Linha: 284
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-06 22:30:00
+Linha: 285
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-07 14:35:00
+Linha: 288
+Atividade: AD4431
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-08 09:33:00
+Linha: 289
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-09 09:33:00
+Linha: 290
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-10 09:33:00
+Linha: 291
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-11 09:33:00
+Linha: 292
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-12 10:00:00
+Linha: 293
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-13 08:00:00
+Linha: 294
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-14 08:00:00
+Linha: 295
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-15 08:00:00
+Linha: 296
+Atividade: VAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-16 08:10:00
+Linha: 298
+Atividade: AD2502
+Tempo em solo: 34:29
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-18 01:25:00
+Linha: 299
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-19 01:25:00
+Linha: 300
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-20 01:25:00
+Linha: 301
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-21 01:25:00
+Linha: 302
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-22 01:25:00
+Linha: 303
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-23 01:25:00
+Linha: 304
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-24 11:50:00
+Linha: 306
+Atividade: AD8750
+Tempo em solo: 29:11
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-26 09:40:00
+Linha: 307
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-27 08:20:00
+Linha: 308
+Atividade: AD9843
+Tempo em solo: 46:54
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-29 10:50:00
+Linha: 309
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-11-30 07:00:00
+Linha: 310
+Atividade: AD8751
+Tempo em solo: 12:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-01 07:00:00
+Linha: 311
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-02 07:00:00
+Linha: 312
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-03 08:10:00
+Linha: 314
+Atividade: AD2502
+Tempo em solo: 14:45
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-04 05:40:00
+Linha: 315
+Atividade: AD9840
+Tempo em solo: 17:40
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-05 05:20:00
+Linha: 316
+Atividade: AD9840
+Tempo em solo: 20:33
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-06 06:20:00
+Linha: 317
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-07 06:20:00
+Linha: 318
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-08 06:20:00
+Linha: 319
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-10 04:30:00
+Linha: 320
+Atividade: AD9840
+Tempo em solo: 33:24
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-11 18:50:00
+Linha: 321
+Atividade: LH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-13 18:55:00
+Linha: 322
+Atividade: LH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-14 08:00:00
+Linha: 323
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-15 08:00:00
+Linha: 324
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-16 08:00:00
+Linha: 325
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-17 08:00:00
+Linha: 326
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-18 08:00:00
+Linha: 327
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-19 20:30:00
+Linha: 328
+Atividade: SCE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-20 20:00:00
+Linha: 329
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-21 19:40:00
+Linha: 331
+Atividade: AD9644
+Tempo em solo: 17:08
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-22 18:55:00
+Linha: 333
+Atividade: AD2824
+Tempo em solo: 14:02
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-23 14:25:00
+Linha: 335
+Atividade: AD2421
+Tempo em solo: 12:31
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-24 08:34:00
+Linha: 336
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-25 09:00:00
+Linha: 337
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-26 07:30:00
+Linha: 338
+Atividade: AD9150
+Tempo em solo: 19:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-27 05:20:00
+Linha: 339
+Atividade: AD4441
+Tempo em solo: 25:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-28 09:00:00
+Linha: 340
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-29 09:00:00
+Linha: 341
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-30 09:00:00
+Linha: 342
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2018-12-31 06:50:00
+Linha: 343
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-01 06:50:00
+Linha: 344
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-02 09:00:00
+Linha: 345
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-03 09:00:00
+Linha: 346
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-04 09:00:00
+Linha: 347
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-05 09:00:00
+Linha: 348
+Atividade: SAF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-06 06:00:00
+Linha: 349
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-07 08:15:00
+Linha: 350
+Atividade: PP1
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-08 08:15:00
+Linha: 351
+Atividade: PP1
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-09 08:15:00
+Linha: 352
+Atividade: PP1
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-10 08:00:00
+Linha: 353
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-10 10:00:00
+Linha: 354
+Atividade: EGP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-10 14:00:00
+Linha: 355
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-11 06:00:00
+Linha: 356
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-12 09:10:00
+Linha: 357
+Atividade: SCE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-13 06:10:00
+Linha: 358
+Atividade: SCE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-14 10:00:00
+Linha: 359
+Atividade: AVM
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-15 11:55:00
+Linha: 360
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-16 12:40:00
+Linha: 361
+Atividade: SCE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-17 10:30:00
+Linha: 362
+Atividade: AVI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-18 00:40:00
+Linha: 363
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-19 00:40:00
+Linha: 364
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-20 00:40:00
+Linha: 365
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-21 00:40:00
+Linha: 366
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-22 16:30:00
+Linha: 367
+Atividade: S18
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-23 16:30:00
+Linha: 368
+Atividade: S18
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-24 20:30:00
+Linha: 369
+Atividade: S22
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-26 08:40:00
+Linha: 373
+Atividade: AD2921
+Tempo em solo: 15:52
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-27 08:17:00
+Linha: 374
+Atividade: AD9641
+Tempo em solo: 21:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-28 08:20:00
+Linha: 375
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-29 08:20:00
+Linha: 376
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-30 08:20:00
+Linha: 377
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-01-31 08:20:00
+Linha: 378
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-01 08:20:00
+Linha: 379
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-02 13:15:00
+Linha: 381
+Atividade: AD9154
+Tempo em solo: 12:58
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-03 08:40:00
+Linha: 384
+Atividade: AD5704
+Tempo em solo: 14:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-04 05:30:00
+Linha: 388
+Atividade: AD6428
+Tempo em solo: 13:20
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-05 04:20:00
+Linha: 389
+Atividade: AD5705
+Tempo em solo: 17:20
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-06 00:00:00
+Linha: 390
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-07 00:00:00
+Linha: 391
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-08 00:00:00
+Linha: 392
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-09 00:00:00
+Linha: 393
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-10 00:00:00
+Linha: 394
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-11 20:30:00
+Linha: 395
+Atividade: S22
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-12 15:00:00
+Linha: 396
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-13 08:25:00
+Linha: 397
+Atividade: AD4312
+Tempo em solo: 14:01
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-14 04:50:00
+Linha: 398
+Atividade: AD2598
+Tempo em solo: 14:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-14 20:40:00
+Linha: 399
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-15 20:40:00
+Linha: 400
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-17 08:00:00
+Linha: 403
+Atividade: AD4304
+Tempo em solo: 14:46
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-18 05:20:00
+Linha: 407
+Atividade: AD4312
+Tempo em solo: 14:28
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-19 05:45:00
+Linha: 410
+Atividade: AD2603
+Tempo em solo: 23:35
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-20 12:30:00
+Linha: 414
+Atividade: AD4319
+Tempo em solo: 13:59
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-21 11:40:00
+Linha: 415
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-22 22:20:00
+Linha: 416
+Atividade: AD4198
+Tempo em solo: 15:51
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-23 17:10:00
+Linha: 417
+Atividade: AD4972
+Tempo em solo: 13:13
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-24 08:00:00
+Linha: 420
+Atividade: AD5326
+Tempo em solo: 13:48
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-25 04:40:00
+Linha: 421
+Atividade: AD2569
+Tempo em solo: 23:57
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-26 05:20:00
+Linha: 423
+Atividade: AD5131
+Tempo em solo: 12:42
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-26 21:00:00
+Linha: 424
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-27 21:00:00
+Linha: 425
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-02-28 21:20:00
+Linha: 426
+Atividade: FAL
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-01 06:10:00
+Linha: 427
+Atividade: INF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-02 12:20:00
+Linha: 428
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-03 12:20:00
+Linha: 429
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-04 13:00:00
+Linha: 430
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-05 06:00:00
+Linha: 431
+Atividade: SE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-06 07:55:00
+Linha: 432
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-07 07:55:00
+Linha: 433
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-08 21:00:00
+Linha: 434
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-09 13:00:00
+Linha: 435
+Atividade: RES
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-09 13:30:00
+Linha: 436
+Atividade: AD5326
+Tempo em solo: 24:04
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-10 15:05:00
+Linha: 439
+Atividade: AD9245
+Tempo em solo: 13:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-11 10:20:00
+Linha: 440
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-12 17:35:00
+Linha: 441
+Atividade: AD8750
+Tempo em solo: 49:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-15 06:40:00
+Linha: 442
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-15 13:50:00
+Linha: 443
+Atividade: AD9804
+Tempo em solo: 12:35
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-16 05:00:00
+Linha: 444
+Atividade: FC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-17 09:45:00
+Linha: 445
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-18 06:00:00
+Linha: 446
+Atividade: AD8751
+Tempo em solo: 27:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-19 20:35:00
+Linha: 447
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-21 08:15:00
+Linha: 448
+Atividade: TAI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-22 08:15:00
+Linha: 449
+Atividade: TAI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-23 05:15:00
+Linha: 450
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-24 05:15:00
+Linha: 451
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-25 06:15:00
+Linha: 452
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-25 08:00:00
+Linha: 454
+Atividade: AD5177
+Tempo em solo: 11:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-26 00:00:00
+Linha: 455
+Atividade: LOP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-27 04:00:00
+Linha: 456
+Atividade: P04
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-28 04:00:00
+Linha: 457
+Atividade: P04
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-29 06:00:00
+Linha: 458
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-30 06:00:00
+Linha: 459
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-03-31 06:00:00
+Linha: 460
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-01 15:35:00
+Linha: 461
+Atividade: R15
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-02 08:10:00
+Linha: 462
+Atividade: AD5704
+Tempo em solo: 14:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-03 05:30:00
+Linha: 466
+Atividade: AD6428
+Tempo em solo: 13:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-04 04:20:00
+Linha: 467
+Atividade: AD5705
+Tempo em solo: 17:10
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-05 00:00:00
+Linha: 468
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-06 00:00:00
+Linha: 469
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-07 00:00:00
+Linha: 470
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-08 00:00:00
+Linha: 471
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-09 06:15:00
+Linha: 472
+Atividade: P06
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-10 07:20:00
+Linha: 475
+Atividade: AD2633
+Tempo em solo: 23:44
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-11 16:50:00
+Linha: 478
+Atividade: AD2594
+Tempo em solo: 13:24
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-12 14:40:00
+Linha: 482
+Atividade: AD5714
+Tempo em solo: 15:48
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-13 15:25:00
+Linha: 484
+Atividade: AD4154
+Tempo em solo: 14:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-14 09:35:00
+Linha: 485
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-15 22:55:00
+Linha: 486
+Atividade: AD2594
+Tempo em solo: 13:02
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-16 14:40:00
+Linha: 490
+Atividade: AD5714
+Tempo em solo: 15:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-17 14:50:00
+Linha: 493
+Atividade: AD2595
+Tempo em solo: 14:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-18 12:15:00
+Linha: 494
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-19 12:15:00
+Linha: 495
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-20 12:15:00
+Linha: 496
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-21 12:35:00
+Linha: 500
+Atividade: AD9143
+Tempo em solo: 14:39
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-22 10:05:00
+Linha: 501
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-23 15:35:00
+Linha: 502
+Atividade: R15
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-24 07:05:00
+Linha: 506
+Atividade: AD2502
+Tempo em solo: 13:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-25 06:20:00
+Linha: 509
+Atividade: AD5167
+Tempo em solo: 20:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-26 08:50:00
+Linha: 513
+Atividade: AD5184
+Tempo em solo: 16:28
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-27 09:35:00
+Linha: 517
+Atividade: AD4049
+Tempo em solo: 20:03
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-28 15:50:00
+Linha: 519
+Atividade: AD2994
+Tempo em solo: 26:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-04-29 23:59:00
+Linha: 520
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-01 00:00:00
+Linha: 521
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-02 00:00:00
+Linha: 522
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-03 00:00:00
+Linha: 523
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-04 00:00:00
+Linha: 524
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-05 13:05:00
+Linha: 527
+Atividade: AD2931
+Tempo em solo: 20:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-06 17:20:00
+Linha: 530
+Atividade: AD5700
+Tempo em solo: 15:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-07 15:30:00
+Linha: 534
+Atividade: AD5700
+Tempo em solo: 15:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-08 15:30:00
+Linha: 537
+Atividade: AD4483
+Tempo em solo: 12:50
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-09 08:50:00
+Linha: 540
+Atividade: AD6970
+Tempo em solo: 14:03
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-10 06:40:00
+Linha: 541
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-11 06:40:00
+Linha: 542
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-12 15:28:00
+Linha: 543
+Atividade: AD8750
+Tempo em solo: 27:45
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-14 06:30:00
+Linha: 544
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-15 05:30:00
+Linha: 545
+Atividade: AD9845
+Tempo em solo: 19:15
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-16 07:30:00
+Linha: 546
+Atividade: AD9845
+Tempo em solo: 18:10
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-17 05:55:00
+Linha: 547
+Atividade: LH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-17 14:35:00
+Linha: 548
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-18 18:15:00
+Linha: 549
+Atividade: AD8753
+Tempo em solo: 32:51
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-20 15:00:00
+Linha: 550
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-22 05:30:00
+Linha: 551
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-22 04:50:00
+Linha: 553
+Atividade: AD9644
+Tempo em solo: 18:10
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-23 06:45:00
+Linha: 554
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-24 06:45:00
+Linha: 555
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-25 06:45:00
+Linha: 556
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-26 06:45:00
+Linha: 557
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-27 13:00:00
+Linha: 558
+Atividade: CPT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-28 13:00:00
+Linha: 559
+Atividade: CPT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-29 07:00:00
+Linha: 560
+Atividade: P07
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-30 14:00:00
+Linha: 561
+Atividade: S14
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-05-31 16:30:00
+Linha: 562
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-01 10:30:00
+Linha: 563
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-02 17:05:00
+Linha: 566
+Atividade: AD4327
+Tempo em solo: 15:54
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-03 15:12:00
+Linha: 570
+Atividade: AD5718
+Tempo em solo: 13:51
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-04 13:40:00
+Linha: 572
+Atividade: AD6967
+Tempo em solo: 15:53
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-05 10:00:00
+Linha: 573
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-06 10:00:00
+Linha: 574
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-07 17:40:00
+Linha: 577
+Atividade: AD4336
+Tempo em solo: 38:01
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-09 14:35:00
+Linha: 581
+Atividade: AD4073
+Tempo em solo: 15:50
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-10 14:35:00
+Linha: 585
+Atividade: AD4408
+Tempo em solo: 30:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-12 05:05:00
+Linha: 588
+Atividade: AD5006
+Tempo em solo: 14:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-13 02:55:00
+Linha: 589
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-14 02:55:00
+Linha: 590
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-15 02:55:00
+Linha: 591
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-16 06:15:00
+Linha: 592
+Atividade: R06
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-17 11:00:00
+Linha: 593
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-18 20:00:00
+Linha: 594
+Atividade: AD4146
+Tempo em solo: 17:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-19 15:00:00
+Linha: 598
+Atividade: AD9161
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-20 13:06:00
+Linha: 600
+Atividade: AD5709
+Tempo em solo: 14:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-21 07:10:00
+Linha: 601
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-22 07:10:00
+Linha: 602
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-23 12:55:00
+Linha: 603
+Atividade: AD4304
+Tempo em solo: 16:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-24 06:55:00
+Linha: 607
+Atividade: AD4304
+Tempo em solo: 14:15
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-25 05:20:00
+Linha: 611
+Atividade: AD4378
+Tempo em solo: 13:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-26 04:45:00
+Linha: 614
+Atividade: AD2423
+Tempo em solo: 13:19
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-27 01:50:00
+Linha: 615
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-28 01:50:00
+Linha: 616
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-29 01:50:00
+Linha: 617
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-06-30 01:50:00
+Linha: 618
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-01 14:00:00
+Linha: 619
+Atividade: SFX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-02 14:00:00
+Linha: 620
+Atividade: SFX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-03 06:30:00
+Linha: 621
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-04 06:30:00
+Linha: 622
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-05 08:05:00
+Linha: 625
+Atividade: AD4417
+Tempo em solo: 14:36
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-06 05:25:00
+Linha: 629
+Atividade: AD5040
+Tempo em solo: 23:23
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-07 14:10:00
+Linha: 633
+Atividade: AD9258
+Tempo em solo: 12:39
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-08 12:10:00
+Linha: 637
+Atividade: AD9256
+Tempo em solo: 18:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-09 15:35:00
+Linha: 640
+Atividade: AD5239
+Tempo em solo: 12:57
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-10 10:15:00
+Linha: 641
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-11 10:15:00
+Linha: 642
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-12 10:15:00
+Linha: 643
+Atividade: R10
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-13 05:30:00
+Linha: 644
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-14 12:45:00
+Linha: 645
+Atividade: AD6410
+Tempo em solo: 14:17
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-15 05:10:00
+Linha: 648
+Atividade: AD5006
+Tempo em solo: 17:15
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-16 06:00:00
+Linha: 649
+Atividade: SE
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-17 05:40:00
+Linha: 650
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-18 05:40:00
+Linha: 651
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-19 05:40:00
+Linha: 652
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-20 08:00:00
+Linha: 653
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-21 08:00:00
+Linha: 654
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-22 08:00:00
+Linha: 655
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-23 08:00:00
+Linha: 656
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-24 08:00:00
+Linha: 657
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-25 08:00:00
+Linha: 658
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-27 08:25:00
+Linha: 659
+Atividade: AD4310
+Tempo em solo: 18:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-28 04:50:00
+Linha: 663
+Atividade: AD4312
+Tempo em solo: 14:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-29 04:50:00
+Linha: 667
+Atividade: AD4304
+Tempo em solo: 16:15
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-07-30 06:55:00
+Linha: 671
+Atividade: AD4033
+Tempo em solo: 32:02
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-01 00:00:00
+Linha: 672
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-02 00:00:00
+Linha: 673
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-03 00:00:00
+Linha: 674
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-04 00:00:00
+Linha: 675
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-05 00:00:00
+Linha: 676
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-06 17:31:00
+Linha: 677
+Atividade: AD8750
+Tempo em solo: 01:36
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-07 06:30:00
+Linha: 678
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-08 16:30:00
+Linha: 679
+Atividade: F
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-10 03:41:00
+Linha: 680
+Atividade: AD9840
+Tempo em solo: 33:08
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-11 18:55:00
+Linha: 681
+Atividade: TAP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-12 18:15:00
+Linha: 682
+Atividade: AD8753
+Tempo em solo: 18:46
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-14 00:00:00
+Linha: 683
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-15 00:00:00
+Linha: 684
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-16 00:00:00
+Linha: 685
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-17 00:00:00
+Linha: 686
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-18 00:00:00
+Linha: 687
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-19 00:00:00
+Linha: 688
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-20 00:00:00
+Linha: 689
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-21 00:00:00
+Linha: 690
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-22 00:00:00
+Linha: 691
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-23 00:00:00
+Linha: 692
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-24 00:00:00
+Linha: 693
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-25 00:00:00
+Linha: 694
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-26 00:00:00
+Linha: 695
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-27 00:00:00
+Linha: 696
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-28 00:00:00
+Linha: 697
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-29 00:00:00
+Linha: 698
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-30 00:00:00
+Linha: 699
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-08-31 00:00:00
+Linha: 700
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-01 00:00:00
+Linha: 701
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-02 00:00:00
+Linha: 702
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-03 00:00:00
+Linha: 703
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-04 00:00:00
+Linha: 704
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-05 00:00:00
+Linha: 705
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-06 00:00:00
+Linha: 706
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-07 00:00:00
+Linha: 707
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-08 00:00:00
+Linha: 708
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-09 00:00:00
+Linha: 709
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-10 00:00:00
+Linha: 710
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-11 00:00:00
+Linha: 711
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-12 00:00:00
+Linha: 712
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-13 00:00:00
+Linha: 713
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-14 00:00:00
+Linha: 714
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-15 00:00:00
+Linha: 715
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-16 00:00:00
+Linha: 716
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-17 00:00:00
+Linha: 717
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-18 16:20:00
+Linha: 720
+Atividade: AD2998
+Tempo em solo: 28:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-20 05:00:00
+Linha: 724
+Atividade: AD4304
+Tempo em solo: 17:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-21 07:35:00
+Linha: 726
+Atividade: AD2625
+Tempo em solo: 17:03
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-22 05:25:00
+Linha: 730
+Atividade: AD5326
+Tempo em solo: 13:56
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-23 05:00:00
+Linha: 734
+Atividade: AD4103
+Tempo em solo: 21:38
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-24 12:00:00
+Linha: 735
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-25 12:00:00
+Linha: 736
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-26 17:00:00
+Linha: 739
+Atividade: AD5130
+Tempo em solo: 16:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-27 15:05:00
+Linha: 744
+Atividade: AD5130
+Tempo em solo: 39:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-29 15:05:00
+Linha: 748
+Atividade: AD4408
+Tempo em solo: 15:29
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-09-30 14:40:00
+Linha: 752
+Atividade: AD5714
+Tempo em solo: 14:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-01 14:55:00
+Linha: 755
+Atividade: AD2595
+Tempo em solo: 14:11
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-02 12:15:00
+Linha: 756
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-03 13:20:00
+Linha: 758
+Atividade: AD4478
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-04 06:17:00
+Linha: 759
+Atividade: AD4363
+Tempo em solo: 24:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-05 08:00:00
+Linha: 760
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-06 08:00:00
+Linha: 761
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-07 15:34:00
+Linha: 763
+Atividade: AD5336
+Tempo em solo: -4:20
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-07 15:40:00
+Linha: 764
+Atividade: AD5337
+Tempo em solo: -6:53
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-07 15:34:00
+Linha: 765
+Atividade: AD2606
+Tempo em solo: 16:16
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-08 15:54:00
+Linha: 768
+Atividade: AD4323
+Tempo em solo: 15:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-09 13:25:00
+Linha: 770
+Atividade: AD4319
+Tempo em solo: 12:33
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-10 14:00:00
+Linha: 771
+Atividade: AD9642
+Tempo em solo: 20:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-11 13:30:00
+Linha: 772
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-12 14:15:00
+Linha: 773
+Atividade: R14
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-13 08:05:00
+Linha: 777
+Atividade: AD5183
+Tempo em solo: 15:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-14 08:15:00
+Linha: 782
+Atividade: AD5340
+Tempo em solo: 12:59
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-15 06:35:00
+Linha: 785
+Atividade: AD5726
+Tempo em solo: 19:20
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-16 07:20:00
+Linha: 788
+Atividade: AD6970
+Tempo em solo: 13:31
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-17 06:00:00
+Linha: 789
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-18 13:00:00
+Linha: 790
+Atividade: AD4378
+Tempo em solo: 13:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-19 04:50:00
+Linha: 791
+Atividade: AD4333
+Tempo em solo: 28:35
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-20 11:00:00
+Linha: 793
+Atividade: AD2442
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-21 04:50:00
+Linha: 797
+Atividade: AD4103
+Tempo em solo: 14:16
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-22 05:00:00
+Linha: 798
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-23 05:30:00
+Linha: 799
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-24 17:05:00
+Linha: 802
+Atividade: AD4336
+Tempo em solo: 13:49
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-25 15:10:00
+Linha: 806
+Atividade: AD5714
+Tempo em solo: 15:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-26 15:30:00
+Linha: 808
+Atividade: AD4154
+Tempo em solo: 13:13
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-27 09:30:00
+Linha: 809
+Atividade: DMF
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-28 02:00:00
+Linha: 810
+Atividade: DMI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-29 07:00:00
+Linha: 811
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-30 07:00:00
+Linha: 812
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-10-31 07:00:00
+Linha: 813
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-01 08:10:00
+Linha: 817
+Atividade: AD5338
+Tempo em solo: 13:06
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-02 07:00:00
+Linha: 822
+Atividade: AD5501
+Tempo em solo: 16:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-03 08:20:00
+Linha: 827
+Atividade: AD5340
+Tempo em solo: 13:18
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-04 06:35:00
+Linha: 831
+Atividade: AD6970
+Tempo em solo: 17:06
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-05 10:15:00
+Linha: 832
+Atividade: R10
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-06 03:00:00
+Linha: 833
+Atividade: FJC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-07 07:00:00
+Linha: 834
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-08 07:00:00
+Linha: 835
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-09 07:00:00
+Linha: 836
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-10 07:00:00
+Linha: 837
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-11 09:00:00
+Linha: 838
+Atividade: FJC
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-12 11:00:00
+Linha: 839
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-12 18:15:00
+Linha: 841
+Atividade: AD5700
+Tempo em solo: 14:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-13 14:50:00
+Linha: 844
+Atividade: AD2931
+Tempo em solo: 13:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-14 10:55:00
+Linha: 848
+Atividade: AD5471
+Tempo em solo: 12:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-15 09:23:00
+Linha: 849
+Atividade: AD9803
+Tempo em solo: 22:54
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-16 10:45:00
+Linha: 850
+Atividade: AD4107
+Tempo em solo: 16:55
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-17 07:00:00
+Linha: 851
+Atividade: FAN
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-18 07:00:00
+Linha: 852
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-19 07:00:00
+Linha: 853
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-20 07:00:00
+Linha: 854
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-21 18:15:00
+Linha: 857
+Atividade: AD2481
+Tempo em solo: 18:09
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-22 19:00:00
+Linha: 860
+Atividade: AD5087
+Tempo em solo: 14:08
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-23 14:05:00
+Linha: 863
+Atividade: AD5421
+Tempo em solo: 19:05
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-24 13:20:00
+Linha: 866
+Atividade: AD5340
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-25 07:11:00
+Linha: 870
+Atividade: AD6970
+Tempo em solo: 13:48
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-26 07:00:00
+Linha: 871
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-27 10:15:00
+Linha: 872
+Atividade: R10
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-27 13:00:00
+Linha: 873
+Atividade: BUS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-27 10:15:00
+Linha: 874
+Atividade: AD2682
+Tempo em solo: 15:55
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-28 09:28:00
+Linha: 877
+Atividade: AD5197
+Tempo em solo: 17:39
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-29 08:09:00
+Linha: 880
+Atividade: AD4433
+Tempo em solo: 16:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-11-30 08:15:00
+Linha: 882
+Atividade: AD4384
+Tempo em solo: 11:15
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-01 00:00:00
+Linha: 883
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-02 15:32:00
+Linha: 886
+Atividade: AD2764
+Tempo em solo: 20:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-03 20:52:00
+Linha: 889
+Atividade: AD2497
+Tempo em solo: 18:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-04 18:56:00
+Linha: 891
+Atividade: AD6912
+Tempo em solo: 14:08
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-05 12:10:00
+Linha: 894
+Atividade: AD5183
+Tempo em solo: 15:41
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-06 08:40:00
+Linha: 897
+Atividade: AD6970
+Tempo em solo: 14:08
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-07 07:00:00
+Linha: 898
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-08 07:00:00
+Linha: 899
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-09 08:15:00
+Linha: 900
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-09 10:15:00
+Linha: 901
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-09 13:15:00
+Linha: 902
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-09 16:15:00
+Linha: 903
+Atividade: DGR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-10 08:15:00
+Linha: 904
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-10 13:15:00
+Linha: 905
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-10 17:15:00
+Linha: 906
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-11 08:15:00
+Linha: 907
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-11 10:15:00
+Linha: 908
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-11 13:15:00
+Linha: 909
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-11 15:15:00
+Linha: 910
+Atividade: PP2
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-11 17:15:00
+Linha: 911
+Atividade: DGR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-12 08:15:00
+Linha: 912
+Atividade: CRM
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-13 08:15:00
+Linha: 913
+Atividade: AVS
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-13 13:15:00
+Linha: 914
+Atividade: GCI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-14 05:15:00
+Linha: 915
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-15 16:15:00
+Linha: 918
+Atividade: AD4308
+Tempo em solo: 16:36
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-16 17:32:00
+Linha: 922
+Atividade: AD2684
+Tempo em solo: 14:13
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-17 15:15:00
+Linha: 926
+Atividade: AD4431
+Tempo em solo: 11:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-18 11:30:00
+Linha: 927
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-20 00:00:00
+Linha: 928
+Atividade: CMA
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-21 00:00:00
+Linha: 929
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-22 00:00:00
+Linha: 930
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-23 00:00:00
+Linha: 931
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-24 00:00:00
+Linha: 932
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-25 00:00:00
+Linha: 933
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-26 00:00:00
+Linha: 934
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-27 00:00:00
+Linha: 935
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-28 00:00:00
+Linha: 936
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-29 00:00:00
+Linha: 937
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-30 00:00:00
+Linha: 938
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2019-12-31 00:00:00
+Linha: 939
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-01 00:00:00
+Linha: 940
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-02 05:35:00
+Linha: 943
+Atividade: AD2723
+Tempo em solo: 19:44
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-03 08:35:00
+Linha: 946
+Atividade: AD5201
+Tempo em solo: 18:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-04 10:30:00
+Linha: 947
+Atividade: SCH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-05 00:00:00
+Linha: 948
+Atividade: CMA
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-06 10:30:00
+Linha: 949
+Atividade: SCH
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-06 23:59:00
+Linha: 950
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-08 17:00:00
+Linha: 951
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-10 20:50:00
+Linha: 952
+Atividade: R21
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-11 14:15:00
+Linha: 953
+Atividade: R14
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-12 17:25:00
+Linha: 956
+Atividade: AD4507
+Tempo em solo: 15:49
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-13 17:20:00
+Linha: 958
+Atividade: AD4323
+Tempo em solo: 13:39
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-14 11:20:00
+Linha: 959
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-15 17:05:00
+Linha: 962
+Atividade: AD2450
+Tempo em solo: 14:56
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-16 15:40:00
+Linha: 963
+Atividade: AD2455
+Tempo em solo: 13:46
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-17 07:40:00
+Linha: 964
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-18 07:40:00
+Linha: 965
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-19 07:40:00
+Linha: 966
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-20 07:40:00
+Linha: 967
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-21 18:00:00
+Linha: 968
+Atividade: SFX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-22 18:00:00
+Linha: 969
+Atividade: SFX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-23 18:00:00
+Linha: 970
+Atividade: SFX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-24 22:03:00
+Linha: 972
+Atividade: AD5130
+Tempo em solo: 38:11
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-26 15:05:00
+Linha: 974
+Atividade: AD4414
+Tempo em solo: 39:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-28 10:30:00
+Linha: 975
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-29 10:30:00
+Linha: 976
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-30 10:30:00
+Linha: 977
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-01-31 10:30:00
+Linha: 978
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-01 10:30:00
+Linha: 979
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-02 10:30:00
+Linha: 980
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-03 10:30:00
+Linha: 981
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-05 07:55:00
+Linha: 984
+Atividade: AD4312
+Tempo em solo: 13:44
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-06 04:50:00
+Linha: 988
+Atividade: AD4501
+Tempo em solo: 13:22
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-07 04:40:00
+Linha: 993
+Atividade: AD9803
+Tempo em solo: 13:10
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-08 02:40:00
+Linha: 994
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-09 16:56:00
+Linha: 997
+Atividade: AD2594
+Tempo em solo: 12:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-10 14:31:00
+Linha: 999
+Atividade: AD5712
+Tempo em solo: 19:41
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-11 14:30:00
+Linha: 1003
+Atividade: AD4877
+Tempo em solo: 12:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-12 11:25:00
+Linha: 1004
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-13 11:25:00
+Linha: 1005
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-14 11:25:00
+Linha: 1006
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-15 11:25:00
+Linha: 1007
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-16 11:25:00
+Linha: 1008
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-17 11:25:00
+Linha: 1009
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-18 14:15:00
+Linha: 1012
+Atividade: AD4047
+Tempo em solo: 12:35
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-19 12:00:00
+Linha: 1013
+Atividade: P
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-20 06:01:00
+Linha: 1014
+Atividade: P06
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-21 07:40:00
+Linha: 1018
+Atividade: AD4384
+Tempo em solo: 13:38
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-22 07:10:00
+Linha: 1019
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-24 02:15:00
+Linha: 1022
+Atividade: AD2644
+Tempo em solo: 30:51
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-25 17:00:00
+Linha: 1027
+Atividade: AD9128
+Tempo em solo: 13:52
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-26 15:20:00
+Linha: 1032
+Atividade: AD5087
+Tempo em solo: 30:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-28 06:20:00
+Linha: 1035
+Atividade: AD4966
+Tempo em solo: 14:42
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-29 05:05:00
+Linha: 1036
+Atividade: AD6979
+Tempo em solo: 00:43
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-02-29 08:00:00
+Linha: 1037
+Atividade: DMI
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-01 02:10:00
+Linha: 1038
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-02 02:10:00
+Linha: 1039
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-03 12:00:00
+Linha: 1040
+Atividade: P12
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-04 12:00:00
+Linha: 1041
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-05 07:20:00
+Linha: 1044
+Atividade: AD2633
+Tempo em solo: 24:06
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-06 14:50:00
+Linha: 1048
+Atividade: AD2899
+Tempo em solo: 14:40
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-07 12:45:00
+Linha: 1051
+Atividade: AD4357
+Tempo em solo: 13:21
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-08 10:15:00
+Linha: 1056
+Atividade: AD2589
+Tempo em solo: 13:19
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-09 09:55:00
+Linha: 1057
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-10 13:20:00
+Linha: 1062
+Atividade: AD4408
+Tempo em solo: 20:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-11 19:20:00
+Linha: 1063
+Atividade: AD4347
+Tempo em solo: 13:46
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-12 10:55:00
+Linha: 1064
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-13 10:55:00
+Linha: 1065
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-14 10:55:00
+Linha: 1066
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-15 10:55:00
+Linha: 1067
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-17 06:01:00
+Linha: 1068
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-17 17:30:00
+Linha: 1070
+Atividade: AD2589
+Tempo em solo: 16:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-18 13:15:00
+Linha: 1074
+Atividade: AD2699
+Tempo em solo: 39:34
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-20 12:30:00
+Linha: 1076
+Atividade: AD5345
+Tempo em solo: 16:06
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-21 07:40:00
+Linha: 1079
+Atividade: AD5201
+Tempo em solo: 18:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-22 10:55:00
+Linha: 1080
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-23 10:55:00
+Linha: 1081
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-24 10:55:00
+Linha: 1082
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-26 03:30:00
+Linha: 1083
+Atividade: P
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-27 03:30:00
+Linha: 1084
+Atividade: P
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-28 12:00:00
+Linha: 1085
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-29 08:00:00
+Linha: 1086
+Atividade: P
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-30 08:00:00
+Linha: 1087
+Atividade: P
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-03-31 12:00:00
+Linha: 1088
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-01 12:00:00
+Linha: 1089
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-02 12:00:00
+Linha: 1090
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-03 12:00:00
+Linha: 1091
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-04 12:00:00
+Linha: 1092
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-05 12:00:00
+Linha: 1093
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-06 12:00:00
+Linha: 1094
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-07 12:00:00
+Linha: 1095
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-08 12:00:00
+Linha: 1096
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-09 12:00:00
+Linha: 1097
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-10 12:00:00
+Linha: 1098
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-11 12:00:00
+Linha: 1099
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-12 12:00:00
+Linha: 1100
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-13 12:00:00
+Linha: 1101
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-14 12:00:00
+Linha: 1102
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-15 14:05:00
+Linha: 1103
+Atividade: AD2236
+Tempo em solo: 16:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-16 08:00:00
+Linha: 1108
+Atividade: AD2251
+Tempo em solo: 16:14
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-17 10:20:00
+Linha: 1113
+Atividade: AD2246
+Tempo em solo: 33:47
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-19 05:55:00
+Linha: 1114
+Atividade: AD2249
+Tempo em solo: 16:02
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-20 00:00:00
+Linha: 1115
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-21 00:00:00
+Linha: 1116
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-22 00:00:00
+Linha: 1117
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-23 00:00:00
+Linha: 1118
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-24 00:00:00
+Linha: 1119
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-25 00:00:00
+Linha: 1120
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-26 00:00:00
+Linha: 1121
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-27 00:00:00
+Linha: 1122
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-28 00:00:00
+Linha: 1123
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-29 00:00:00
+Linha: 1124
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-04-30 12:15:00
+Linha: 1125
+Atividade: P12
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-01 12:15:00
+Linha: 1126
+Atividade: P12
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-02 08:45:00
+Linha: 1127
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-03 08:45:00
+Linha: 1128
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-05 08:00:00
+Linha: 1130
+Atividade: AD5216
+Tempo em solo: 25:32
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-06 14:50:00
+Linha: 1132
+Atividade: AD4227
+Tempo em solo: 14:55
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-07 10:55:00
+Linha: 1133
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-08 10:55:00
+Linha: 1134
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-09 10:55:00
+Linha: 1135
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-10 10:55:00
+Linha: 1136
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-12 06:15:00
+Linha: 1137
+Atividade: P06
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-13 06:06:00
+Linha: 1139
+Atividade: AD9966
+Tempo em solo: 50:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-15 15:45:00
+Linha: 1140
+Atividade: AD9969
+Tempo em solo: 36:57
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-17 11:05:00
+Linha: 1141
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-18 11:05:00
+Linha: 1142
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-19 11:05:00
+Linha: 1143
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-21 08:10:00
+Linha: 1145
+Atividade: AD2598
+Tempo em solo: 13:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-22 01:00:00
+Linha: 1146
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-23 01:00:00
+Linha: 1147
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-24 01:00:00
+Linha: 1148
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-25 01:00:00
+Linha: 1149
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-26 06:50:00
+Linha: 1152
+Atividade: AD9980
+Tempo em solo: 13:10
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-27 05:35:00
+Linha: 1153
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-28 05:35:00
+Linha: 1154
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-29 08:00:00
+Linha: 1155
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-29 13:00:00
+Linha: 1157
+Atividade: AD4137
+Tempo em solo: 13:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-30 08:55:00
+Linha: 1160
+Atividade: AD2701
+Tempo em solo: 24:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-05-31 16:50:00
+Linha: 1161
+Atividade: AD5203
+Tempo em solo: 15:55
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-01 12:15:00
+Linha: 1162
+Atividade: P12
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-02 13:40:00
+Linha: 1164
+Atividade: AD9903
+Tempo em solo: 27:09
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-04 00:00:00
+Linha: 1165
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-05 00:00:00
+Linha: 1166
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-06 00:00:00
+Linha: 1167
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-07 00:00:00
+Linha: 1168
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-08 02:30:00
+Linha: 1169
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-09 03:00:00
+Linha: 1170
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-10 06:15:00
+Linha: 1171
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-10 08:30:00
+Linha: 1172
+Atividade: REX
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-11 06:15:00
+Linha: 1173
+Atividade: P06
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-12 02:45:00
+Linha: 1174
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-13 02:45:00
+Linha: 1175
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-14 02:45:00
+Linha: 1176
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-15 23:00:00
+Linha: 1178
+Atividade: AD4341
+Tempo em solo: 19:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-17 02:00:00
+Linha: 1179
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-18 13:05:00
+Linha: 1180
+Atividade: AD2437
+Tempo em solo: 27:22
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-19 20:10:00
+Linha: 1181
+Atividade: AD4137
+Tempo em solo: 66:20
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-22 16:55:00
+Linha: 1182
+Atividade: AD2577
+Tempo em solo: 13:39
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-23 09:30:00
+Linha: 1183
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-24 12:45:00
+Linha: 1186
+Atividade: AD2242
+Tempo em solo: 29:07
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-26 04:50:00
+Linha: 1189
+Atividade: AD2598
+Tempo em solo: 13:12
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-27 01:05:00
+Linha: 1190
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-28 01:05:00
+Linha: 1191
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-29 01:05:00
+Linha: 1192
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-06-30 01:05:00
+Linha: 1193
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-01 05:40:00
+Linha: 1195
+Atividade: AD9967
+Tempo em solo: 23:23
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-02 14:15:00
+Linha: 1197
+Atividade: AD4339
+Tempo em solo: 17:30
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-03 13:08:00
+Linha: 1198
+Atividade: AD4330
+Tempo em solo: 18:43
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-04 11:20:00
+Linha: 1199
+Atividade: AD9978
+Tempo em solo: 26:31
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-05 17:40:00
+Linha: 1200
+Atividade: AD4409
+Tempo em solo: 13:16
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-06 08:55:00
+Linha: 1201
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-07 08:55:00
+Linha: 1202
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-08 08:55:00
+Linha: 1203
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-09 08:55:00
+Linha: 1204
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-10 08:55:00
+Linha: 1205
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-11 08:55:00
+Linha: 1206
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-12 22:05:00
+Linha: 1207
+Atividade: AD4506
+Tempo em solo: 29:45
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-14 05:40:00
+Linha: 1208
+Atividade: AD4507
+Tempo em solo: 17:03
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-15 00:00:00
+Linha: 1209
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-16 00:00:00
+Linha: 1210
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-17 00:00:00
+Linha: 1211
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-18 00:00:00
+Linha: 1212
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-19 00:00:00
+Linha: 1213
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-20 06:15:00
+Linha: 1214
+Atividade: P
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-21 05:00:00
+Linha: 1215
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-22 05:00:00
+Linha: 1216
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-23 05:00:00
+Linha: 1217
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-24 05:00:00
+Linha: 1218
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-25 08:40:00
+Linha: 1219
+Atividade: AD4448
+Tempo em solo: 17:48
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-26 04:45:00
+Linha: 1220
+Atividade: AD4393
+Tempo em solo: 18:23
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-27 01:00:00
+Linha: 1221
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-28 01:00:00
+Linha: 1222
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-29 01:00:00
+Linha: 1223
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-30 01:00:00
+Linha: 1224
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-07-31 01:00:00
+Linha: 1225
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-01 01:00:00
+Linha: 1226
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-02 01:00:00
+Linha: 1227
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-03 01:00:00
+Linha: 1228
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-04 01:00:00
+Linha: 1229
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-05 01:00:00
+Linha: 1230
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-06 01:00:00
+Linha: 1231
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-07 01:00:00
+Linha: 1232
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-08 01:00:00
+Linha: 1233
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-09 01:00:00
+Linha: 1234
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-10 01:00:00
+Linha: 1235
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-11 01:00:00
+Linha: 1236
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-12 01:00:00
+Linha: 1237
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-13 01:00:00
+Linha: 1238
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-14 01:00:00
+Linha: 1239
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-15 14:20:00
+Linha: 1242
+Atividade: AD4813
+Tempo em solo: 14:08
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-16 10:57:00
+Linha: 1246
+Atividade: AD4824
+Tempo em solo: 15:40
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-17 12:48:00
+Linha: 1249
+Atividade: AD4812
+Tempo em solo: 21:17
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-18 17:25:00
+Linha: 1251
+Atividade: AD9802
+Tempo em solo: 13:40
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-19 12:50:00
+Linha: 1252
+Atividade: AD9803
+Tempo em solo: 02:50
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-19 17:50:00
+Linha: 1253
+Atividade: FJC24
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-20 12:40:00
+Linha: 1254
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-21 12:40:00
+Linha: 1255
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-22 12:40:00
+Linha: 1256
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-23 12:40:00
+Linha: 1257
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-24 12:45:00
+Linha: 1260
+Atividade: AD4588
+Tempo em solo: 29:26
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-26 04:45:00
+Linha: 1263
+Atividade: AD4593
+Tempo em solo: 13:13
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-27 01:10:00
+Linha: 1264
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-28 16:55:00
+Linha: 1267
+Atividade: AD4506
+Tempo em solo: 53:38
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-08-31 05:30:00
+Linha: 1269
+Atividade: AD4592
+Tempo em solo: 19:19
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-01 05:25:00
+Linha: 1272
+Atividade: AD4593
+Tempo em solo: 12:59
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-02 01:05:00
+Linha: 1273
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-03 17:20:00
+Linha: 1275
+Atividade: AD4601
+Tempo em solo: 14:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-04 14:05:00
+Linha: 1278
+Atividade: AD4420
+Tempo em solo: 65:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-07 16:50:00
+Linha: 1280
+Atividade: AD9260
+Tempo em solo: 15:25
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-08 13:25:00
+Linha: 1282
+Atividade: AD4404
+Tempo em solo: 13:04
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-09 08:40:00
+Linha: 1283
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-10 08:40:00
+Linha: 1284
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-11 08:40:00
+Linha: 1285
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-12 08:40:00
+Linha: 1286
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-13 08:40:00
+Linha: 1287
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-14 08:40:00
+Linha: 1288
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-15 10:00:00
+Linha: 1289
+Atividade: PLT
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-15 13:25:00
+Linha: 1292
+Atividade: AD4274
+Tempo em solo: 39:03
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-17 14:40:00
+Linha: 1293
+Atividade: AD4275
+Tempo em solo: 12:45
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-18 05:35:00
+Linha: 1294
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-19 05:35:00
+Linha: 1295
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-20 05:35:00
+Linha: 1296
+Atividade: FR
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-21 05:35:00
+Linha: 1297
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-22 05:35:00
+Linha: 1298
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-23 05:35:00
+Linha: 1299
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-24 05:35:00
+Linha: 1300
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-25 05:35:00
+Linha: 1301
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-26 05:35:00
+Linha: 1302
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-27 05:35:00
+Linha: 1303
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-28 05:35:00
+Linha: 1304
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-09-29 05:35:00
+Linha: 1305
+Atividade: FP
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-01 00:00:00
+Linha: 1306
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-02 00:00:00
+Linha: 1307
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-03 00:00:00
+Linha: 1308
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-04 00:00:00
+Linha: 1309
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-05 00:00:00
+Linha: 1310
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-06 00:00:00
+Linha: 1311
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-07 00:00:00
+Linha: 1312
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-08 00:00:00
+Linha: 1313
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-09 00:00:00
+Linha: 1314
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-10 00:00:00
+Linha: 1315
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-11 00:00:00
+Linha: 1316
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-12 00:00:00
+Linha: 1317
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+
+Data: 2020-10-13 00:00:00
+Linha: 1318
+Atividade: FER
+Tempo em solo: 00:00
+Inconsistência: Repouso Regulamentar menor que 12 horas
+

@@ -1,0 +1,2 @@
+1 instalar o poetry em todos os diretórios que utilizar o Python.
+2 -utilizar poetry add pandas por exemplo. 

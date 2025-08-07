@@ -1,0 +1,10 @@
+{
+  "status": "CONCLUIDO",
+  "inicio": "2025-07-01T16:26:28.379539",
+  "ultimo_heartbeat": "2025-07-01T16:27:15.453475",
+  "etapa_atual": "Finalizando processamento",
+  "progresso": 100,
+  "pid": 9032,
+  "erro": null,
+  "fim": "2025-07-01T16:27:15.453475"
+}

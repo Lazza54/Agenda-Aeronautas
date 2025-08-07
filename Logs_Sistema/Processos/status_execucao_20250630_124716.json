@@ -1,0 +1,10 @@
+{
+  "status": "ERRO",
+  "inicio": "2025-06-30T12:47:16.708314",
+  "ultimo_heartbeat": "2025-06-30T12:47:29.847564",
+  "etapa_atual": "Cálculo de Tempos Após Corte",
+  "progresso": 50,
+  "pid": 1364,
+  "erro": "'Id_leg'",
+  "fim": "2025-06-30T12:47:29.847564"
+}

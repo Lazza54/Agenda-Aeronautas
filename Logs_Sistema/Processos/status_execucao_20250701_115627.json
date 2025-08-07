@@ -1,0 +1,10 @@
+{
+  "status": "ERRO",
+  "inicio": "2025-07-01T11:56:27.260184",
+  "ultimo_heartbeat": "2025-07-01T11:56:41.140167",
+  "etapa_atual": "Cálculo de Tempos de Jornada",
+  "progresso": 45,
+  "pid": 2528,
+  "erro": "'NoneType' object has no attribute 'columns'",
+  "fim": "2025-07-01T11:56:41.140167"
+}

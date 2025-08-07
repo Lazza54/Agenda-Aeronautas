@@ -1,0 +1,10 @@
+{
+  "status": "ERRO",
+  "inicio": "2025-07-02T16:26:28.743796",
+  "ultimo_heartbeat": "2025-07-02T16:26:42.413434",
+  "etapa_atual": "Cálculo de Tempos Após Corte",
+  "progresso": 50,
+  "pid": 8788,
+  "erro": "name 'atividades_excluidos' is not defined",
+  "fim": "2025-07-02T16:26:42.413434"
+}

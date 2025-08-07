@@ -1,0 +1,10 @@
+{
+  "status": "ERRO",
+  "inicio": "2025-07-01T11:29:58.501494",
+  "ultimo_heartbeat": "2025-07-01T11:30:05.659203",
+  "etapa_atual": "Preparando estrutura de dados",
+  "progresso": 35,
+  "pid": 5676,
+  "erro": "criar_colunas_calculo() missing 1 required positional argument: 'feriados'",
+  "fim": "2025-07-01T11:30:05.659203"
+}

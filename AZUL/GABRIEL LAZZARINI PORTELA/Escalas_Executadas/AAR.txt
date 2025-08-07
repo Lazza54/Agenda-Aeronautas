@@ -1,0 +1,824 @@
+﻿AAR, Aarhus, Denmark, Tirstrup
+ABJ, Abidjan, Cote D`Ivoire, Port Bouet
+ABQ, Albuquerque, NM, USA, Albuquerque Intl
+ABR, Aberdeen, SD, USA, Aberdeen Regional Airport
+ABS, Abu Simbel, Egypt, Abu Simbel
+ABY, Albany, GA, USA, Dougherty County
+ABZ, Aberdeen, Scotland, United Kingdom, Dyce
+ACA, Acapulco, Guerrero, Mexico, Alvarez International
+ACC, Accra, Ghana, Kotoka
+ACE, Lanzarote, Canary Islands, Spain, Lanzarote
+ACY, Atlantic City /Atlantic Cty, NJ, USA, Atlantic City Intl
+ADA, Adana, Turkey, Adana
+ADB, Izmir, Turkey, Adnam Menderes
+ADD, Addis Ababa, Ethiopia, Bole
+ADJ, Amman, Jordan, Civil
+ADL, Adelaide, South Australia, Australia, Adelaide
+ADZ, San Andres Island, Colombia
+AEP, Buenos Aires, Argentina, Jorge Newberry
+AEY, Akureyri, Iceland, Akureyri
+AGA, Agadir, Morocco, Inezgane
+AGB, Augsburg, Germany, Muehlhausen
+AGP, Malaga, Spain, Malaga
+AGR, Agra, India, Kheria
+AHO, Alghero, Sardenha, Itália
+AJU, Aracaju, Sergipe, Brasil
+AKL, Auckland, New Zealand, Auckland Intl Airport
+ALA, Almaty, Kazakhstan, Almaty
+ALG, Algiers, Algeria, Houari Boumedienne
+ALY, Alexandria, Egypt, Alexandria
+AMM, Amman, Jordan, Queen Alia International
+AMS, Amsterdam, Netherlands, Schiphol
+ANC, Anchorage, AK, USA, Anchorage International
+ANF, Antofagasta, Chile, Cerro Moreno
+ANU, Saint Johns / Antigua & Barbuda, Vc Bird Intl
+APW, Apia, Samoa, Faleolo
+AQP, Arequipa, Peru, Rodriguez Ballon
+ARI, Arica, Chile, Chacalluta
+ARN, Stockholm, Sweden, Arlanda International
+ASD, Andros Town, Bahamas
+ASE, Aspen, CO, USA, Pitkin County Airport Sardy Field
+ASU, Asuncion, Paraguay, Silvio Pettirossi
+ATH, Athens, Greece, Hellinikon
+ATL, Atlanta, GA, USA, Hartsfield International
+AUA, Aruba, Aruba, Reina Beatrix
+AUH, Abu Dhabi, United Arab Emirates, Abu Dhabi Intl
+AUS, Austin, TX, USA, Robert Mueller Municipal Airport
+AXA, Anguilla, Anguilla
+AYT, Antalya, Turkey, Antalya
+AZO, Kalamazoo, MI, USA, Kalamazoo/Battle Creek Intl
+BAH, Bahrain, Bahrain, Bahrain Intl
+BAK, Baku, Azerbaijan, Baku
+BAQ, Barranquilla, Colombia, E Cortissoz
+BAU, Bauru, São Paulo, Brasil, Aeroclube Estadual
+BBU, Bucharest, Romania, Baneasa
+BCN, Barcelona, Spain, Barcelona
+BDL, Hartford, CT, USA, Bradley Intl Airport
+BEG, Belgrade, Yugoslavia, Belgrade
+BEL, Belem, Para, Brasil, Val De Cans
+BEO, Newcastle, NSW, Australia, Belmont
+BER, Berlin, Germany, Schoenefeld
+BEY, Beirut, Lebanon, International
+BFS, Belfast, Ireland, United Kingdom, Belfast Intl
+BGF, Bangui, Central African Republic, Bangui
+BGI, Bridgetown, Barbados, Grantley Adams Intl
+BGO, Bergen, Norway, Flesland
+BGR, Bangor, ME, USA, Bangor Intl Airport
+BGY, Milan, Italy, Orio Al Serio
+BHD, Belfast, Northern Ireland, UK, Belfast Harbor
+BHI, Bahia Blanca, Argentina
+BHX, Birmingham, England, UK, Intl
+BIA, Bastia, Corsica, France, Poretta
+BIK, Biak, Indonesia, Mokmer
+BIM, Bimini, Bahamas, Bimini Island Intl
+BIO, Bilbao, Spain, Sondica
+BJL, Banjul, Gambia, Yundum International
+BJX, Leon/Guanajuato, Mexico, Del Bajio
+BKI, Kota Kinabalu, Sabah, Malaysia, Kota Kinabalu
+BKK, Bangkok, Thailand, Bangkok Intl Airport
+BKO, Bamako, Mali, Senou
+BLL, Billund, Denmark, Billund
+BLQ, Bologna, Italy, Guglielmo Marconi
+BLR, Bangalore, India, Hindustan
+BLZ, Blantyre, Malawi, Chileka
+BMA, Stockholm, Sweden, Bromma Arpt
+BNA, Nashville, TN, USA, Nashville Metropolitan
+BNE, Brisbane, Queensland, Australia, Intl
+BOG, Bogota, Colombia, Eldorado
+BOM, Bombay, India, Bombay
+BON, Bonaire, Netherlands Antilles, Flamingo Field
+BOS, Boston, MA, USA, Logan International Airport
+BPS, Porto Seguro, Bahia, Brasil
+BRC, San Carlos De Bariloche, Argentina, Intl
+BRE, Bremen, Germany, Bremen
+BRI, Bari Palese, Puglia, Italia, Karol Wojtila
+BRS, Bristol, England,
+BRU, Brussels, Belgium, National
+BSB, Brasilia, Distrito Federal, Brasil, Intl
+BUD, Budapest, Hungary, Ferihegy
+BUQ, Bulawayo, Zimbabwe, Bulawayo
+BUR, Burbank, CA, USA, Burbank Glendale Pasadena
+BVA, Boa Vista, Cape Verde, Boa Vista
+BVB, Boa Vista, Roraima, Brasil
+BWI, Baltimore, MD, USA, Baltimore-Washington Intl
+BWN, Bandar Seri Begawan, Brunei, Intl
+BZE, Belize City, Belize, Belize International
+CAG, Cagliari, Sardenha, Itália
+CAI, Cairo, Egypt, International
+CAN, Guangzhou, China, Baiyun
+CAS, Casablanca, Morocco, Anfa
+CAU, Caruarú, PE, Brasil, Oscar Laranjeiras
+CAY, Cayenne, French Guiana, Rochambeau
+CBB, Cochabamba, Bolivia, S. J. De La Banda
+CBR, Canberra, Australia
+CCM, Criciúma, Santa Catarina, Brasil
+CCP, Concepcion, Chile, Carriel Sur
+CCS, Caracas, Venezuela, Simon Bolivar Intl
+CCU, Calcutta, India, Calcutta
+CDG, Paris, France, Charles De Gaulle
+CEB, Cebu, Philippines, International
+CGB, Cuiabá, Mato Grosso, Brasil
+CGH, São Paulo, Brasil, Congonhas
+CGK, Jakarta, Indonesia, Soekarno Hatta Intl
+CGN, Cologne/Bonn, Germany, Köln/Bonn
+CGR, Campo Grande, MS, Brasil
+CHC, Christchurch, New Zealand, Intl
+CHM, Chimbote, Peru
+CHS, Charleston, SC, USA, Charleston Il
+CIA, Rome, Italy, Ciampino
+CJU, Cheju, South Korea, Cheju
+CKS, Carajás, Pará, Brasil
+CKY, Conakry, Guinea, Conakry
+CLE, Cleveland, OH, USA, Hopkins Intl
+CLO, Cali, Colombia, Alfonso Bonilla Aragon
+CLT, Charlotte, NC, USA, Charlotte/Douglas Intl
+CMB, Colombo, Sri Lanka, Katunayake Intl
+CMG, Corumbá, MS, Brasil
+CMH, Columbus, OH, USA, Port Columbus Intl
+CMN, Casablanca, Morocco, Mohamed V
+CNF, Belo Horizonte, Brasil, Tancredo Neves
+CNS, Cairns, Queensland, Australia
+CNX, Chiang Mai, Thailand, Intl
+COR, Cordoba, Argentina, Pajas Blancas
+COS, Colorado Springs, CO, USA -Municipal
+CPC, San Martin De Los Andes, Neuquen, Argentina
+CPH, Copenhagen, Denmark
+CPT, Cape Town, South Africa, D F Malan
+CPV, Campina Grande, Paraíba, Brasil
+CRD, Comodoro Rivadavia, Chubut, Argentina
+CRU, Carriacou Island, Grenada
+CTG, Cartagena, Colombia, Rafael Nunez
+CTS, Sapporo, Japan, Chitose
+CTU, Chengdu, China
+CUC, Cucuta, Colombia, Camilo Daza
+CUE, Cuenca, Ecuador, Mariscal La Mar
+CUN, Cancun, Mexico
+CUR, Willemstad / Curacao, Hato
+CUU, Chihuahua, Mexico, Gen. Villalobos
+CUZ, Cuzco, Peru, Tte Velazco Astete
+CVG, Cincinnati, OH, USA, Greater Cincinnati Intl
+CWB, Curitiba, Paraná, Brasil, Afonso Pena
+CWL, Cardiff, Wales, United Kingdom –
+CYB, Cayman Brac Island, Cayman Islands
+CYR, Colonia, Uruguay
+CZM, Cozumel, Quintana Roo, México
+CZS, Cruzeiro do Sul, Acre, Brasil
+DAB, Daytona Beach, FL, USA –
+DAC, Dhaka, Bangladesh, Zia Inl
+DAD, Da Nang, Vietnam, Da Nang
+DAL, Dallas, TX, USA, Love Field
+DAM, Damascus, Syria, Damascus Intl
+DAR, Dar Es Salaam, Tanzania, Intl
+DAY, Dayton, OH, USA, James M Cox Intel
+DBV, Dubrovnik, Croatia, Hrvatska
+DCA, Washington, DC, USA, Reagan / National
+DEL, Delhi, India, Delhi Intl
+DEN, Denver, CO, USA, Denver Intl
+DFW, Dallas/Ft Worth, TX, USA, DFW Intl
+DHA, Dhahran, Saudi Arabia, Intl
+DIJ, Dijon, France, Longvic
+DIL, Dili, Indonesia, Comoro
+DKR, Dakar, Senegal, Yoff
+DLA, Douala, Cameroon \
+DLC, Dalian, China
+DME, Moscou, Russia, Domodedovo
+DOH, Doha, Qatar, Doha
+DOM, Dominica, Dominica, Melville Hal-Dom
+DPS, Denpasar Bali, Indonesia, Ngurah Rai
+DRS, Dresden, Germany, Dresden
+DSM, Des Moines, IA, USA
+DTM, Dortmund, Germany, Wickede
+DTW, Detroit, MI, USA, Metropolitan
+DUB, Dublin, Ireland, Dublin
+DUR, Durban, South Africa, Louis Botha
+DUS, Dusseldorf, Germany, Dusseldorf
+DUT, Dutch Harbor, AK, USA –
+DVO, Davao, Philippines, Mati
+DXB, Dubai, United Arab Emirates, Intl
+EBB, Entebbe/Kampala, Uganda
+EDI, Edinburgh, Scotland, UK, Turnhouse
+EIN, Eindhoven, Netherlands, Welschap
+EIS, Tortola/Beef Island, UK Virgin Islands
+ELH, North Eleuthera, Bahamas
+ELP, El Paso, TX, USA, El Paso Intl
+EMA, East Midlands, UK
+EOH, Medellin, Colombia, Enrique Olaya Herrara
+ERS, Windhoek, Namibia, Eros
+ESB, Ankara, Turkey, Esenboga
+ETH, Elat, Israel –
+ETZ, Metz/Nancy, France, Frescaty
+EVN, Yerevan, Armenia
+EWR, Newark, NJ, USA, International
+EXT, Exeter, England, UK
+EYW, Key West, FL, USA
+EZE, Buenos Aires, Argentina Min. Pistarini
+FAE, Faroe Islands,
+FAI, Fairbanks, AK, USA, International
+FAO, Faro, Portugal
+FAR, Fargo, ND, USA, Hector
+FAT, Fresno, CA, USA
+FBU, Oslo, Norway, Fornebu
+FCO, Rome, Italy, Leonardo Da Vinci/Fiumicino
+FDF, Fort De France, Martinique
+FDO, San Fernando, Argentina
+FEZ, Fez, Morocco
+FIH, Kinshasa, Zaire, Kinshasa
+FLL, Ft Lauderdale, FL, USA, F. Laud. Hollywood Intl
+FLN, Florianópolis, SC, Brasil
+FLR, Florença, Italia
+FMO, Münster, Germany
+FNC, Funchal, Madeira, Portugal
+FOR, Fortaleza, CE, Brasil
+FPO, Freeport, Bahamas, Intl
+FRA, Frankfurt, Germany, International
+FUK, Fukuoka, Japan, Itazuke
+GAJ, Yamagata, Japan, Junmachi
+GBE, Gaborone, Botswana
+GCI, Guernsey, Channel Islands, UK
+GCM, Grand Cayman -Owen Roberts
+GCN, Grand Canyon, AZ, USA
+GDL, Guadalajara, Mexico, Miguel Hidalgo Intl
+GDN, Gdansk, Poland, Rebiechowo
+GDT, Grand Turk Is, Turks & Caicos
+GDX, Magadan, Russia
+GEN, Oslo, Norway, Gardermoen
+GEO, Georgetown, Guyana, Timehri
+GGT, George Town, Bahamas, Exuma
+GHB, Governors Harbour, Bahamas
+GIB, Gibraltar
+GIG, RJ, Brasil, Tom Jobim Intl
+GLA, Glasgow, Scotland, UK
+GNB, Grenoble, France, St Geoirs
+GND, St Georges/Grenada, Pt Saline
+GOA, Genoa, Italy, Christoforo Colombo
+GOT, Gothenburg, Sweden, Landvetter
+GPS, Galapagos Islands, Ecuador, Baltra
+GRO, Gerona, Spain, Costa Brava
+GRQ, Groningen, Netherlands, Eelde
+GRU, SP, Brasil, Guarulhos / F. Montoro
+GRX, Granada, Spain
+GRZ, Graz, Austria, Thalerhof
+GUA, Guatemala City, Guatemala, La Aurora
+GUM, Guam, Ab Wonpat Intl
+GUZ, Guarapari, Espírito Santo, Brasil
+GVA, Geneva, Switzerland
+GXQ, Coyhaique, Chile, Teniente Vidal
+GYE, Guayaquil, Ecuador, Simon Bolívar
+GYN, Goiânia , GO, Brasil, Santa Genoveva
+HAG, The Hague, Netherlands
+HAH, Moroni (Hahaya), Comoros
+HAJ, Hanover, Germany, Langenhagen
+HAK, Haikou, China, Haikou
+HAM, Hamburg, Germany, Fuhlsbuttel
+HAN, Hanoi, Vietnam, Noibai Airport
+HAV, Havana, Cuba, Jose Marti
+HBA, Hobart, Tasmania, Australia
+HDB, Heidelberg, Germany
+HEL, Helsinki, Finland, Helsinki
+HER, Heraklion, Crete Island, Greece
+HIJ, Hiroshima, Japan
+HIR, Honiara/Guadalcanal, Solomon
+HIS, Hayman Island, Australia
+HKD, Hakodate, Japan
+HKG, Hong Kong, Hong Kong
+HKT, Phuket, Thailand, Phuket
+HMA, Malmo, Sweden
+HNL, Honolulu, HI, USA, International
+HOU, Houston, TX, USA, Hobby
+HPV, Kauai Island, HI, USA, Princeville
+HRB, Harbin, China
+HRE, Harare, Zimbabwe
+HRG, Hurghada, Egypt
+HRK, Kharkov, Ukraine
+HUN, Hualien, Taiwan
+HUX, Huatulco, Oaxaca, Mexico
+HYD, Hyderabad, India, Begumpet
+IAD, Washington, DC, USA, Dulles
+IAH, Houston, TX, USA, Intercontinental
+IBZ, Ibiza, Spain, Ibiza
+IEV, Kiev, Ukraine, Zhulhany
+IGM, Kingman, AZ, USA, Mohave County
+IGR, Iguazu, Argentina, International
+IGU, Foz do Iguaçu, PR, Brasil, Cataratas
+IKT, Irkutsk, Russia
+IMP, Imperatriz, MA, Brasil
+INN, Innsbruck, Austria, Kranebitten
+INU, Nauru, Nauru
+INV, Inverness, Scotland, UK
+IOM, Isle Of Man, UK, Ronaldsway
+IOS, Ilhéus, BA, Brasil
+IPC, Ilha da Páscoa, Chile, Mataveri
+IPH, Ipoh, Malaysia, Ipoh
+IPI, Ipiales, Colombia, San Luis
+IQQ, Iquique, Chile, Chucumata
+IQT, Iquitos, Peru, Cf Secada
+ISB, Islamabad, Pakistan, International
+ISC, Isles Of Scilly, UK, Tresco
+IST, Istanbul, Turkey, Ataturk
+ITM, Osaka, Japan, Itami International
+ITO, Hilo, HI, USA, Hilo Hawaii
+IZO, Izumo, Japan
+JAI, Jaipur, India, Sanganeer
+JAX, Jacksonville, FL, USA, International
+JDF, Juíz de Fora, MG, Brasil
+JDH, Jodhpur, India
+JDO, Juazeiro do Norte, CE, Brasil, Orlando Bezerra de Menezes
+JED, Jeddah, Saudi Arabia, International
+JER, Jersey, Channel Islands, UK, States
+JFK, New York, USA, John F Kennedy Intl
+JIB, Djibouti, Djibouti, Ambouli
+JKG, Jonkoping, Sweden, Axamo
+JMK, Mikonos, Greece, Mikonos
+JNB, Johannesburg, South Africa, Jan Smuts
+JNX, Naxos, Greece
+JOG, Yogyakarta, Indonesia
+JOI, Joinville, SC, Brasil
+JON, Johnston Island, US, Outlying Islands
+JRO, Kilimanjaro, Tanzania
+JTC, Bauru-Arealva, SP, Brasil
+JTR, Santorini, Greece
+JUJ, Jujuy, Argentina, El Cadillal
+JUL, Juliaca, Peru, Juliaca
+KAN, Kano, Nigeria, Aminu Kano
+KBP, Kiev, Ukraine, Borispol
+KEF, Reykjavik, Iceland, Intl
+KEL, Kiel, Germany, Holtenau
+KGD, Kaliningrad, Russia
+KHI, Karachi, Pakistan
+KIN, Kingston, Jamaica
+KIX, Osaka, Japan, Kansai Intl
+KJA, Krasnojarsk, Russia
+KLU, Klagenfurt, Austria, Klagenfurt
+KMG, Kunming, China
+KMI, Miyazaki, Japan
+KMJ, Kumamoto, Japan
+KOA, Kona, HI, USA, Keahole
+KOJ, Kagoshima, Japan
+KRK, Krakow, Poland, Balice
+KRN, Kiruna, Sweden, Kiruna
+KRP, Karup, Denmark, Karup
+KRT, Khartoum, Sudan, Civil
+KSA, Kosrae, Caroline Islands, Micronesia
+KTM, Kathmandu, Nepal, Tribhuvan
+KTW, Katowice, Poland, Pyrzowice
+KUL, Kuala Lumpur, Malaysia, Subang
+KUN, Kaunas, Lithuania, Kaunas
+KUO, Kuopio, Finland, Kuopio
+KUV, Kunsan, South Korea
+KVA, Kavala, Greece, Kavala
+KWA, Kwajalein, Marshall Islands
+KWI, Kuwait,, International
+KWL, Guilin, China
+KZN, Kazan, Rússia
+LAD, Luanda, Angola
+LAS, Las Vegas, NV, USA, McCarran
+LAX, Los Angeles, CA, USA, International
+LBA, Leeds/Bradford, England, UK
+LBV, Libreville, Gabon –
+LCA, Larnaca, Cyprus, Intl
+LCE, La Ceiba, Honduras, International
+LCG, La Coruna, Spain
+LCY, London, England, UK, London City
+LDB, Londrina, PR, Brasil
+LDE, Lourdes/Tarbes, France –
+LEJ, Leipzig, Germany
+LET, Leticia, Colombia, Gen Av Cobu
+LFW, Lome, Togo
+LGA, New York, NY, USA, La Guardia
+LGB, Long Beach, CA, USA, Municipal
+LGK, Langkawi, Malaysia
+LGW, London, England, UK, Gatwick
+LHE, Lahore, Pakistan, Lahore
+LHR, London, England, UK, Heathrow
+LIM, Lima, Peru, Jorge Chavez
+LIN, Milan, Italy, Linate
+LIS, Lisboa, Portugal, Portela de Sacavém
+LJU, Ljubljana, Slovenia, Brnik
+LLW, Lilongwe, Malawi, Kamuzu Intl
+LNZ, Linz, Austria
+LOS, Lagos, Nigeria, Murtala Muhammed
+LPB, La Paz, Bolivia, El Alto
+LPI, Linkoping, Sweden, Saab
+LPL, Liverpool, England, UK
+LRM, Casa De Campo, Dominican Republic
+LSS, Terre-De-Haut, Guadeloupe
+LTN, London, England, UK, Luton
+LUG, Lugano, Switzerland, Agno
+LUN, Lusaka, Zambia
+LUX, Luxembourg, Findel
+LVI, Livingstone, Zambia
+LWO, Lvov, Ukraine, Snilow
+LWY, Lawas, Sarawak, Malaysia
+LXR, Luxor, Egypt
+LYS, Lyon, France, Satolas
+MAA, Madras, India, Meenambarkkam
+MAD, Madrid, Spain, Barajas
+MAH, Menorca, Spain
+MAJ, Majuro, Marshall Islands, International
+MAN, Manchester, England, UK
+MAO, Manaus, AM, Brasil, Eduardo Gomes
+MAR, Maracaibo, Venezuela, La Chinita
+MBA, Mombasa, Kenya, Moi International
+MBJ, Montego Bay, Jamaica, Sangster
+MCI, Kansas City, MO, USA, International
+MCM, Monte Carlo, Monaco, Heliporto
+MCO, Orlando, FL, USA, International
+MCP, Macapa, AP, Brasil
+MCT, Muscat, Oman, Seeb
+MCZ, Maceió AL, Brasil, Zumbi dos Palmares
+MDC, Manado, Indonesia, Samratulang
+MDE, Medellin, Colombia, La Playas
+MDQ, Mar Del Plata, Argentina
+MDW, Chicago, IL, USA
+MDZ, Mendoza, Argentina, El Plumerillo
+MEC, Manta, Equador
+MED, Medinah, Saudi Arabia, Prince Mohammad Bin Abdulaziz
+MEL, Melbourne, Australia, Tullamarine
+MEM, Memphis, TN, USA -International
+MES, Medan, Indonesia
+MEX, Mexico City, Mexico -Benito Juarez
+MGA, Managua, Nicaragua
+MGQ, Mogadishu, Somalia
+MIA, Miami, FL, USA, International
+MLA, Malta, Luqa
+MLE, Male, Maldives, Male International
+MLH, Mulhouse, France
+MMX, Malmo, Sweden, Sturup
+MNI, Montserrat, Blackburne
+MNL, Manila, Philippines, Ninoy Aquino
+MPM, Maputo, Mozambique, International
+MRS, Marseille, France, Marseille-Provence
+MRU, Mauritius,, Plaisance
+MSP, Minneapolis, MN, USA, MSP Intl
+MSY, New Orleans, LA, USA, Moisant Intl
+MTY, Monterrey, Mexico, Escobedo
+MUB, Maun, Botswana
+MUC, Munich, Germany, Franz Josef Strauss
+MUN, Maturin, Venezuela
+MVD, Montevideo, Uruguay, Carrasco
+MVF, Mossoró, Rio Grande do Norte, Brasil, Dix-Sept Rosado
+MXP, Milan, Italy, Malpensa
+NAN, Nadi, Fiji, International
+NAP, Naples, Italy, Capodichino
+NAS, Nassau, Bahamas, International
+NAT, Natal, RN, Brasil, Augusto Severo
+NBO, Nairobi, Kenya, Jomo Kenyatta
+NCA, North Caicos, Turks &Caicos
+NCE, Nice, France, Cote D`Azur
+NCL, Newcastle, England, UK
+NCY, Annecy, France, Annecy-Meythe
+NDJ, Ndjamena, Chad, N`djamena
+NEV, Nevis, Saint Kitts And Nevis
+NGO, Nagoya, Japan, Komaki
+NGS, Nagasaki, Japan, Nagasaki
+NKC, Nouakchott, Mauritania
+NKG, Nanjing, China
+NLA, Ndola, Zambia
+NLD, Nuevo Laredo, Tamaulipas, Mexico
+NLP, Nelspruit, South Africa
+NOU, Noumea, New Caledonia, Tontouta
+NRT, Tokyo, Japan, Narita
+NSI, Yaounde, Cameroon, Nsimalen
+NSN, Nelson, New Zealand, Nelson
+NTE, Nantes, France -Chateau Bougon
+NTL, Newcastle, Australia, Williamtown
+NUE, Nuremberg, Germany, Nuremberg
+NVT, Navegantes, SC, Brasil
+OAK, Oakland, CA, USA, Metropolitan
+OAX, Oaxaca, Oaxaca, Mexico, Xoxocotlan
+ODE, Odense, Denmark
+OKA, Okinawa, Ryukyu Islands, Japan
+OKC, Oklahoma City, OK, USA, Will Rogers
+OKJ, Okayama, Japan
+OLB, Olbia-Costa Smeralda, Sardenha, Itália
+ONT, Ontario, CA, USA, International
+OPF, Miami, FL, USA, Opa Locka
+OPO, Porto, Portugal
+ORB, Orebro, Sweden
+ORD, Chicago, IL, USA, O`Hare
+ORF, Norfolk, VA, USA
+ORK, Cork, Ireland
+ORL, Orlando, FL, USA, Herndon
+ORN, Oran, Algeria, Es Senia
+ORY, Paris, France, Orly
+OSH, Oshkosh, WI, USA, Wittman Field
+OTP, Bucharest, Romania, Otopeni
+OUA, Ouagadougou, Burkina Faso
+OUL, Oulu, Finland, Oulu
+OVB, Novosibirsk, Russia, Tolmachevo
+OVD, Asturias, Spain, Asturias
+OXB, Bissau, Guinea-Bissau, Osvaldo Vieira
+OZZ, Ouarzazate, Morocco
+PAD, Paderborn, Germany
+PAP, Port Au Prince, Haiti, Mais Gate
+PAT, Patna, India, Patna
+PAZ, Poza Rica, Veracruz, Mexico
+PBC, Puebla, Puebla, Mexico
+PBI, West Palm Beach, FL, USA
+PBM, Paramaribo, Suriname, Zanderij
+PDG, Padang, Indonesia, Tabing
+PDL, Ponta Delgada, Açores, Portugal, Nordela
+PDX, Portland, OR, USA, International
+PEK, Beijing, China, Capital Airport
+PEN, Penang, Malaysia, International
+PER, Perth, Australia
+PEW, Peshawar, Pakistan
+PFO, Paphos, Cyprus, International
+PHL, Philadelphia, PA, USA, International
+PHX, Phoenix, AZ, USA, Sky Harbor
+PID, Nassau, Bahamas, Paradise Island
+PIK, Glasgow, Scotland, UK, Prestwick
+PIT, Pittsburgh, PA, USA, Greater Pit Intl
+PLS, Providenciales, Turks And Caicos
+PLU, Belo Horizonte MG, Brasil, Pampulha
+PMC, Puerto Montt, Chile, Tepual
+PMG, Ponta Porã, Mato Grosso do Sul, Brasil
+PMI, Palma Mallorca, Spain
+PMO, Palermo, Sicily, Italy, Punta Raisi
+PNH, Phnom Penh, Cambodia, Pochentong
+PNI, Pohnpei, Caroline Islands, Micronesia
+PNZ, Petrolina, PE, Brasil, Senador Nilo Coelho
+POA, Porto Alegre, RS, Brasil, Salgado Filho
+POG, Port Gentil, Gabon
+POM, Port Moresby, Papua New Guinea, Jackson
+POP, Puerto Plata, Dominican Republic, La Union
+POS, Port Of Spain, Trinidad & Tobago, Piarco
+PPG, Pago Pago, American Samoa
+PPT, Papeete, French Polynesia, Faaa
+PRG, Prague, Czech Republic, Ruzyne
+PRI, Praslin Island, Seychelles
+PSA, Pisa, Italy, G Galilei
+PSZ, Puerto Suarez, Bolivia
+PTF, Malololailai, Fiji, Malololailai
+PTP, Pointe A Pitre, Guadeloupe, Le Raizet
+PTY, Panama City, Panama, Tocumen Intl
+PUJ, Punta Cana, Dominican Republic
+PUQ, Punta Arenas, Chile, Presidente Ibanez
+PUS, Pusan, South Korea, Kimhae
+PVG, Shangai, China, Pudong
+PVH, Porto Velho RO, Brasil Gov. Jorge Texeira
+PVR, Puerto Vallarta, Mexico, Gustavo Diaz Ordaz
+PXM, Puerto Escondido, Oaxaca, Mexico
+PZO, Puerto Ordaz, Venezuela
+QBF, Vail/Eagle, CO, USA
+QDU, Duesseldorf, Germany, Train Station
+QKB, Breckenridge, CO, USA
+QKL, Cologne, Germany, Train Station
+QRO, Queretaro, Queretaro, Mexico
+QSY, Sydney, NSW, Austrália
+RAB, Rabaul, Papua New Guinea, Lakunai
+RAI, Praia, Ilha de Santiago, Cape Verde, Praia
+RAK, Marrakech, Morocco, Menara
+RAO, Ribeirão Preto, SP, Brasil, Leite Lopes
+RAR, Rarotonga, Cook Islands
+RBA, Rabat, Morocco, Sale
+RBR, Rio Branco AC, Brasil, Plácido de Castro
+RDU, Raleigh/Durham, NC, USA, Intl
+REC, Recife, Pernambuco, Brasil, Guararapes / Gilberto Freyre
+REG, Reggio Calabria, Italy, Tito Menniti
+REL, Trelew, Chubut, Argentina
+RES, Resistencia, Chaco, Argentina
+RGA, Rio Grande, Tierra Del Fuego, Argentina
+RGL, Rio Gallegos, Santa Cruz, Argentina
+RGN, Yangon, Myanmar, Mingaladon
+RHO, Rhodes, Greece, Paradisi
+RIC, Richmond, VA, USA
+RIX, Riga, Latvia, Riga
+RKV, Reykjavik, Iceland, Domestic
+ROM, Rome, Italy, Leonardo Da Vinci / Fiumicino
+ROP, Rota, Northern Mariana Islands, Rota
+ROR, Koror, Palau, Airai
+ROS, Rosario, Santa Fe, Argentina, Fisherton
+ROV, Rostov, Russia
+RTB, Roatan, Honduras, Roatan
+RTM, Rotterdam, Netherlands
+RUH, Riyadh, Saudi Arabia, King Khaled Intl
+SAB, Saba Island, Netherlands Antilles
+SAF, Santa Fe, NM, USA –
+SAH, Sanaa, Yemen, International
+SAL, San Salvador, El Salvador –
+SAN, San Diego, CA, USA, Lindbergh Intl
+SAP, San Pedro Sula, Honduras, La Mesa
+SAT, San Antonio, TX, USA, International
+SAV, Savannah, GA, USA, Travis Field
+SBA, Santa Barbara, CA, USA
+SBH, St Barthelemy, Guadeloupe
+SCL, Santiago, Chile, Com. Arturo M. Benitez
+SCN, Saarbruecken, Germany, Ensheim
+SCQ, Santiago De Compostela, Spain
+SCU, Santiago, Cuba, Antonio Maceo
+SDJ, Sendai, Japan, Sendai
+SDQ, Sto. Domingo, Rep. Dominicana, Las Americas
+SDR, Santander, Spain, Santander
+SDU, Rio De Janeiro, Brasil, Santos Dumont
+SEA, Seattle, WA, USA, Seattle Tacoma Intl
+SEL, Seoul, Korea, Kimpo International
+SEZ, Mahe Island, Seychelles
+SFA, Sfax, Tunisia, Sfax Airport
+SFG, St Martin, Netherlands Antilles, Esperance
+SFN, Santa Fe, Santa Fe, Argentina
+SFO, San Francisco, CA, USA, Intl
+SGN, Ho Chi Minh City, Vietnam, Tan Son Nhut
+SHA, Shanghai, China, Intl /Hongqiao
+SHJ, Sharjah, United Arab Emirates
+SID, Sal, Cape Verde, Amilcar Cabral
+SIN, Singapore, Singapore, Changi
+SJC, San Jose, CA, USA, International
+SJJ, Sarajevo, Bosnia Herzegowina, Butmir
+SJK, São José dos Campos, São Paulo, Brasil
+SJO, San Jose, Costa Rica, Juan Santamaria International
+SJU, San Juan, PR, USA, Luis Munoz Marin
+SJW, Shijiazhuang, China, Shijiazhuang
+SKB, St Kitts, Saint Kitts And Nevis, Golden Rock
+SKG, Thessaloniki, Greece
+SKP, Skopje, Macedonia
+SLA, Salta, Salta, Argentina
+SLC, Salt Lake City, UT, USA
+SLU, St Lucia, Saint Lucia, Vigie Field
+SLZ, São Luiz, Maranhão, Brasil, Tirirical
+SMF, Sacramento, CA, USA, Metropolitan
+SNA, Santa Ana, CA, USA, John Wayne
+SNN, Shannon, Ireland, Shannon
+SOF, Sofia, Bulgaria, Sofia Intl
+SPB, St Thomas Island, VI, USA, Seaplane Base
+SPN, Saipan, Northern Mariana Islands
+SPR, San Pedro, Belize
+SRE, Sucre, Bolivia
+SRQ, Sarasota/Bradenton, FL, USA
+SSA, Salvador, Brasil, Dep. L. E. Magalhães
+SSH, Sharm El Sheikh, Egypt, Ophira
+STL, St Louis, MO, USA, Lambert-St Louis Intl
+STM, Santarém, Pará, Brasil
+STN, London, England, UK, Stansted
+STR, Stuttgart, Germany, Echterdingen
+STT, St Thomas Island, VI, USA, Cyril E King
+STX, St Croix Island, VI, USA
+SUB, Surabaya, Indonesia, Juanda Airport
+SUV, Suva, Fiji, Nausori
+SVD, St Vincent, St. Vincent And The Grenadines
+SVG, Stavanger, Norway, Sola
+SVO, Moscou, Russia, Sheremetyevo
+SVQ, Sevilla, Spain
+SVU, Savusavu, Fiji, Savusavu
+SWP, Swakopmund, Namibia
+SXB, Strasbourg, France, Entzheim
+SXF, Berlin, Germany, Schoenefeld
+SXM, St Maarten, Netherlands Antilles, Juliana
+SYD, Sydney, Australia, Sydney /Kingsford-Smith
+SZG, Salzburg, Austria, Salzburg
+SZX, Shenzhen, China, Shenzhen
+TAB, Tobago, Trinidad & Tobago, Crown Point
+TAE, Taegu, South Korea
+TAM, Tampico, Tamaulipas, Mexico
+TAS, Tashkent, Uzbekistan
+TBS, Tbilisi, Georgia, Novo Alexeyevka
+TBT, Tabatinga, Amazonas, Brasil
+TBU, Nuku Alofa/Tongatapu, Tonga
+TFN, Tenerife, Canarias, Espanha, Los Rodeos
+TFS, Tenerife, Canarias, Espanha, Reina Sofia
+TGU, Tegucigalpa, Honduras, Toncontin
+THE, Teresina, Piaui, Brasil
+THF, Berlin, Germany, Tempelhof
+THR, Tehran, Iran, Mehrabad
+TIA, Tirana, Albania, Rinas
+TIJ, Tijuana, Mexico, Gen. Abelardo L Rodriguez
+TIQ, Tinian, Northern Mariana Islands
+TKK, Truk, Caroline Islands, Micronesia
+TKS, Tokushima, Japan
+TKU, Turku, Finland
+TLH, Tallahassee, FL, USA
+TLL, Tallinn, Estonia, Ulemiste
+TLS, Toulouse, France, Blagnac
+TLV, Tel Aviv Yafo, Israel, Ben-Gurion
+TNG, Tangier, Morocco, Boukhalef Souahel
+TNR, Antananarivo, Madagascar, Ivato
+TOL, Toledo, OH, USA
+TOS, Tromso, Norway, Tromso/Langes
+TOY, Toyama, Japan, Toyama
+TPA, Tampa, FL, USA, Tampa Intl
+TPE, Taipei, Taiwan, Chiang Kai Shek
+TRC, Torreon, Coahuila, Mexico
+TRD, Trondheim, Norway –
+TRN, Turin, Italy, Caselle
+TRS, Trieste, Italy, Ronchi Dei Legionari
+TRU, Trujillo, Peru, Trujillo
+TRV, Trivandrum, India, Trivandrum
+TRZ, Tiruchirapally, India
+TSA, Taipei, Taiwan, Sung Shan
+TSR, Timisoara, Romania, Timisoara
+TSS, New York, NY, USA, East 34Th Street Heliport
+TTJ, Tottori, Japan, Tottori
+TUC, Tucuman, Argentina, Benjamin Matienzo
+TUF, Tours, France, St Symphorien
+TUL, Tulsa, OK, USA
+TUN, Tunis, Tunisia, Carthage
+TUO, Taupo, New Zealand, Taupo
+TUS, Tucson, AZ, USA, International
+TXL, Berlin, Germany, Tegel
+TZA, Belize City, Belize
+TZN, South Andros, Bahamas, Congo Town
+TZX, Trabzon, Turquia, Trabzon
+UAK, Narsarsuaq, Greenland
+UAQ, San Juan, San Juan, Argentina
+UBJ, Ube, Japan
+UDR, Udaipur, India
+UIO, Quito, Ecuador, Mariscal
+ULN, Ulan Bator, Mongolia, Ulan Bator
+ULY, Ulyanovsk, Russia
+UME, Umea, Sweden, Umea
+URC, Urumqi, China
+URT, Surat Thani, Thailand
+USH, Ushuaia, Tierra Del Fuego, Argentina
+USM, Koh Samui, Thailand
+USN, Ulsan, South Korea
+UTH, Udon Thani, Thailand
+UVF, St Lucia, Saint Lucia, Hewanorra
+VAA, Vaasa, Finland, Vaasa
+VAR, Varna, Bulgaria, Varna
+VAS, Sivas, Turkey, Sivas
+VBY, Visby, Sweden, Visby
+VCE, Venice, Italy, Marco Polo
+VCP, Campinas, São Paulo, Brasil, Viracopos
+VDM, Viedma Gobernador Castello, Argentina
+VDZ, Valdez, AK, USA
+VFA, Victoria Falls, Zimbabwe
+VGO, Vigo, Spain
+VIE, Vienna, Austria, Schwechat
+VIJ, Virgin Gorda, Virgin Islands (British)
+VIT, Vitoria, Spain
+VIX, Vitoria, ES, Brasil, Eurico Sales
+VKO, Moscou, Russia, Vnukovo
+VLC, Valencia, Spain, Valencia
+VLG, Villa Gesell, Buenos Aires, Argentina
+VLI, Port Vila, Vanuatu, Bauerfield
+VLL, Valladolid, Spain, Valladolid
+VLN, Valencia, Venezuela, Valencia
+VNO, Vilnius, Lithuania, Vilnius Airport
+VNS, Varanasi, India, Babatpur
+VOG, Volgograd, Russia, Volgograd
+VRA, Varadero, Cuba, Juan Gualberto Gomez
+VRB, Vero Beach, FL, USA, Municipal
+VRN, Verona, Italy, Verona
+VSA, Villahermosa, Mexico, Carlos R Perez
+VTE, Vientiane, Laos, Wattay
+VVI, Santa Cruz, Bolivia, Viru Viru
+VVO, Vladivostok, Russia
+VXE, São Vicente, Cape Verde, São Pedro
+VXO, Vaxjo, Sweden
+WAT, Waterford, Ireland
+WAW, Warsaw, Poland, Okecie
+WDH, Windhoek, Namibia, Jg Strijdom
+WIL, Nairobi, Kenya, Wilson Arpt
+WLG, Wellington, New Zealand
+WRO, Wroclaw, Poland, Strachowice
+
+X, Aeroportos: siglas e nomes
+XAP, Chapecó, Santa Catarina, Brasil
+YAP, Yap, Caroline Islands, Micronesia
+YBA, Banff, Alberta, Canada
+YDF, Deer Lake, Newfoundland, Canada
+YEC, Yechon, South Korea
+YEG, Edmonton, Alberta, Canada, Intl
+YHD, Dryden, Ontario, Canada
+YHM, Hamilton, Ontario, Canada, Civic
+YHZ, Halifax, Nova Scotia, Canada –
+YKS, Yakutsk, Russia
+YLW, Kelowna, British Columbia, Canada –
+YMX, Montreal, Quebec, Canada
+YOW, Ottawa, Ontario, Canada, Intl
+YQB, Quebec, Canada, Sainte Foy Airport
+YQG, Windsor, Ontario, Canada, Intl
+YQR, Regina, Saskatchewan, Canada
+YQX, Gander, Newfoundland, Canada
+YTZ, Toronto, Ontario, Canada
+YUL, Montreal, Quebec, Canada
+YUM, Yuma, AZ, USA, International
+YVR, Vancouver, British Columbia, Canada
+YVZ, Deer Lake, Ontario, Canada
+YWG, Winnipeg, Manitoba, Canada
+YWH, Victoria, British Columbia, Canada –
+YXD, Edmonton, Alberta, Canada –
+YYC, Calgary, Alberta, Canada –
+YYJ, Victoria, British Columbia, Canada –
+YYR, Goose Bay, Newfoundland, Canada –
+YYT, St Johns, Newfoundland, Canada
+YYU, Kapuskasing, Ontario, Canada
+YYY, Mont Joli, Quebec, Canada
+YYZ, Toronto, Ontario, Canada, Pearson Intl
+YZF, Yellowknife, NW Territories, Canadá
+ZAG, Zagreb, Croatia (Hrvatska), Zagreb
+ZAH, Zahedan, Iran, Zahedan
+ZAL, Valdivia, Chile, Pichoy
+ZAM, Zamboanga, Philippines
+ZAZ, Zaragoza, Spain, Zaragoza
+ZBV, Vail/Eagle, CO, USA
+ZCL, Zacatecas, Zacatecas, Mexico
+ZCO, Temuco, Chile, Manquehue
+ZHA, Zhanjiang, China
+ZIH, Ixtapa/Zihuatanejo, Guerrero, Mexico
+ZLO, Manzanillo, Colima, Mexico
+ZNZ, Zanzibar, Tanzania, Kisauni
+ZRH, Zurich, Switzerland, Zurich
+ZSA, San Salvador, Bahamas
+ZTH, Zakinthos, Greece, Zakinthos
+

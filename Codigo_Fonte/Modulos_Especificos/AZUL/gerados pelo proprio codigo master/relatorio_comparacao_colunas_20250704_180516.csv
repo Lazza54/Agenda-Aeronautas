@@ -1,0 +1,13 @@
+﻿coluna,posicao,status,tipo_coluna,tipo_df1,tipo_df2,valores_unicos_df1,valores_unicos_df2,nulos_df1,nulos_df2,tamanho_df1,tamanho_df2,problema_tipo,comprimento_medio_df1,comprimento_medio_df2,valores_comuns,valores_so_df1,valores_so_df2,amostra_size,valores_iguais_amostra,taxa_igualdade_amostra,problemas
+Activity,0,OK,texto,object,object,733,733,0,0,2541,2541,False,4.059818968909878,4.059818968909878,733,0,0,1000,1000,100.0,[]
+Id_Leg,1,OK,texto,object,object,4,4,0,0,2541,2541,False,2.5769382133018497,2.5769382133018497,4,0,0,1000,1000,100.0,[]
+Checkin,2,COM_PROBLEMAS,texto,object,object,1857,1857,0,0,2541,2541,False,16.123966942148762,19.0,971,886,886,1000,706,70.6,"['886 valores únicos só no DF1', '886 valores únicos só no DF2', 'Taxa de igualdade baixa: 70.6%']"
+Start,3,COM_PROBLEMAS,texto,object,object,2541,2541,0,0,2541,2541,False,16.121605667060212,19.0,1322,1219,1219,1000,706,70.6,"['1219 valores únicos só no DF1', '1219 valores únicos só no DF2', 'Taxa de igualdade baixa: 70.6%']"
+Dep,4,OK,texto,object,object,59,59,0,0,2541,2541,False,3.0,3.0,59,0,0,1000,1000,100.0,[]
+Arr,5,OK,texto,object,object,59,59,0,0,2541,2541,False,3.0,3.0,59,0,0,1000,1000,100.0,[]
+End,6,COM_PROBLEMAS,texto,object,object,2541,2541,0,0,2541,2541,False,16.121605667060212,19.0,1322,1219,1219,1000,707,70.7,"['1219 valores únicos só no DF1', '1219 valores únicos só no DF2', 'Taxa de igualdade baixa: 70.7%']"
+Checkout,7,COM_PROBLEMAS,texto,object,object,1869,1869,0,0,2541,2541,False,16.123966942148762,19.0,979,890,890,1000,707,70.7,"['890 valores únicos só no DF1', '890 valores únicos só no DF2', 'Taxa de igualdade baixa: 70.7%']"
+AcVer,8,OK,texto,object,object,13,13,0,0,2541,2541,False,1.9027941755214481,1.9027941755214481,13,0,0,1000,1000,100.0,[]
+DD,9,OK,texto,object,object,9,9,0,0,2541,2541,False,1.0279417552144825,1.0279417552144825,9,0,0,1000,1000,100.0,[]
+CAT,10,OK,texto,object,object,3,3,0,0,2541,2541,False,2.049586776859504,2.049586776859504,3,0,0,1000,1000,100.0,[]
+Crew,11,COM_PROBLEMAS,texto,object,object,647,647,0,0,2541,2541,False,77.38488783943329,77.38685556867375,643,4,4,1000,998,99.8,"['4 valores únicos só no DF1', '4 valores únicos só no DF2']"

@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aeronautas"
+version = "0.1.0"
+description = "Projeto para analise e gestao de dados de aeronautas"
+authors = ["Seu Nome <rilazza@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+missingno = "^0.5.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

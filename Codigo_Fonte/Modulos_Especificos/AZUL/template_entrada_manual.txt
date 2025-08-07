@@ -1,0 +1,22 @@
+# TEMPLATE PARA ENTRADA MANUAL DE ESCALA
+
+## Instruções:
+1. Copie os dados do PDF e cole abaixo
+2. Mantenha a estrutura de linhas
+3. Salve este arquivo como .txt
+4. Execute novamente o analisador
+
+## DADOS DA ESCALA:
+[Cole aqui o conteúdo do PDF]
+
+## FORMATO ESPERADO:
+Data: DD/MM/YYYY
+Horário: HH:MM
+Voo: ADXXXX
+Aeroportos: GRU-SDU
+Equipamento: A320
+
+## EXEMPLO:
+01/07/2024
+AD4567 GRU-SDU 08:30-10:15 A320
+AD4568 SDU-GRU 11:00-12:45 A320
