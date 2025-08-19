@@ -40,7 +40,7 @@ def selecionar_arquivo():
         exit()
 
     # 2. Selecionar arquivo no diretório escolhido
-    arquivo_path = filedialog.askopenfilename(initialdir=diretorio, title="Selecione o arquivo - _CALCULOS_EM_TIMEDELTA_com_tempos.csv")
+    arquivo_path = filedialog.askopenfilename(initialdir=diretorio, title="Selecione o arquivo - _APOS_CORTE.csv")
     if not arquivo_path:
         print("Nenhum arquivo selecionado.")
         exit()

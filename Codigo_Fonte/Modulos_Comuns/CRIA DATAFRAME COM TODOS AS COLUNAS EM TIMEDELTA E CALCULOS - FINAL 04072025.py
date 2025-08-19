@@ -28,7 +28,9 @@ def selecionar_arquivo():
         exit()
 
     # 2. Selecionar arquivo no diretório escolhido
-    arquivo_path = filedialog.askopenfilename(initialdir=diretorio, title="Selecione o arquivo - CÁLCULOS EM TIMEDELTA")
+    #arquivo_path = filedialog.askopenfilename(initialdir=diretorio, title="Selecione o arquivo - CÁLCULOS EM TIMEDELTA")
+    arquivo_path = filedialog.askopenfilename(initialdir=diretorio, title="Selecione o arquivo - _QUARTA_VERSAO")
+
     if not arquivo_path:
         print("Nenhum arquivo selecionado.")
         exit()
@@ -165,7 +167,7 @@ df_dados_escala['Checkout'] = pd.to_datetime(df_dados_escala['Checkout'])
 df_dados_escala['Dia_Semana'] = df_dados_escala['Checkin'].dt.weekday
 
 # abrir o arquivo feriados.json
-feriados = pd.read_json(r"G:\PROJETOS PYTHON\aeronautas_azul\ARQUIVOS COMUNS\feriados.json")
+feriados = pd.read_json(r"G:\SPECTRUM_SYSTEM\Aeronautas\Documentos_Comuns\Arquivos_Diversos\feriados.json")
 
 # Converter a coluna 'Data' para datetime
 feriados['date'] = pd.to_datetime(feriados['date'])
@@ -174,7 +176,7 @@ feriados['date'] = pd.to_datetime(feriados['date'])
 df_dados_escala['Feriado'] = df_dados_escala['Checkin'].dt.date.isin(feriados['date'].dt.date)
 
 # Selecionar o arquivo siglas_sabre.xlsx no path atual
-path_siglas_sabre = (r"G:\PROJETOS PYTHON\aeronautas_azul\ARQUIVOS COMUNS\Siglas Sabre 1.xlsx")
+path_siglas_sabre = (r"G:\SPECTRUM_SYSTEM\Aeronautas\Documentos_Comuns\Arquivos_Diversos\Siglas Sabre 1.xlsx")
 
 try:
     siglas_sabre = pd.read_excel(path_siglas_sabre, engine='openpyxl')

@@ -42,10 +42,10 @@ def selecionar_arquivo():
     return path
 
 diretorio_path = selecionar_diretorio()
-print(f"📂 Diretório selecionado com sucesso! {diretorio_path}")
+print(f"Diretório selecionado com sucesso! {diretorio_path}")
 
 arquivo_path = selecionar_arquivo()
-print(f"📄 Arquivo selecionado com sucesso! {arquivo_path}")
+print(f" Arquivo selecionado com sucesso! {arquivo_path}")
 
 # extrair o nome do arquivo 
 nome_arquivo = os.path.basename(arquivo_path)
@@ -77,6 +77,7 @@ def gravar_arquivo(diretorio_path, nome_arquivo, conteudo):
     return caminho_completo
 
 escala = pd.read_csv(arquivo_path,sep=',')
+print("Colunas do arquivo lido:", escala.columns.tolist())
 escala.insert(1, 'Id_Leg', '')
 
 #### TENTATIVA COMO STRINGS

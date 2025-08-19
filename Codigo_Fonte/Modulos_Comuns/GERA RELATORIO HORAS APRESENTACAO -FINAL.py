@@ -45,7 +45,7 @@ def selecionar_arquivo():
     # 2. Selecionar arquivo no diretório escolhido
     arquivo_path = filedialog.askopenfilename(
         initialdir=diretorio, 
-        title="Selecione o arquivo - _CALCULOS_EM_TIMEDELTA_com_tempos.csv"
+        title="Selecione o arquivo - _QUARTA_VERSAO.csv"
     )
     if not arquivo_path:
         print("Nenhum arquivo selecionado.")
@@ -58,7 +58,7 @@ def selecionar_arquivo():
     print(f"Arquivo original: {nome_arquivo}")
 
     # Carregar arquivo JSON - CORRIGIDO
-    arquivo_JSON_path = r"G:\PROJETOS PYTHON\aeronautas_azul\ARQUIVOS COMUNS\feriados.json"
+    arquivo_JSON_path = r"G:\SPECTRUM_SYSTEM\Aeronautas\Documentos_Comuns\Arquivos_Diversos\feriados.json"
     
     if os.path.exists(arquivo_JSON_path):
         try:
@@ -82,7 +82,7 @@ def selecionar_arquivo():
 
 def gravar_arquivo(nome_arquivo, diretorio):
     # 3. Substituir tudo após ')' no nome do arquivo por "novo nome"
-    novo_nome = nome_arquivo.split(")")[0] + ") - CALCULOS_EM_TIMEDELTA_COM_TEMPOS_CALCULADOS" 
+    novo_nome = nome_arquivo.split(")")[0] + ") - RELATORIO_HORAS_APRESENTACAO.txt"
 
 # Chamar a função selecionar_arquivo e armazenar os retornos
 diretorio, nome_arquivo, arquivo_path = selecionar_arquivo()
@@ -99,7 +99,7 @@ dados = dados_iniciais[dados_iniciais['Activity'].str.startswith(('AD', 'APT','S
 dados = dados.reset_index(drop=True)
 
 # filtrar o dataframe para excluir as linhas onde a coluna Tempo Apresentacao é nula ou igual a '-' 
-dados = dados[dados['Tempo Apresentacao'].notnull() & dados['Tempo Apresentacao'] != '' ]
+#dados = dados[dados['Tempo Apresentacao'].notnull() & dados['Tempo Apresentacao'] != '' ]
 
 ##### TÉRMINO DA ABERTURA DOS ARQUIVOS
 

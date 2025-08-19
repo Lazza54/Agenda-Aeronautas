@@ -1,0 +1,2 @@
+Activity,Id_Leg,Checkin,Start,End,Checkout,Tempo Reserva Diurno,Tempo Reserva Noturno,Tempo Reserva Especial Diurno,Tempo Reserva Especial Noturno
+SEA,-IF,2025-08-18 06:10:00,2025-08-18 06:10:00,2025-08-18 09:10:00,2025-08-18 09:10:00,0 days 03:00:00,0 days,0 days,0 days

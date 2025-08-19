@@ -90,8 +90,9 @@ dados_pdf = extrair_dados_completos(pdf_reader)
 # Fechar arquivo
 imported_data.close()
 
-print(f"\n✅ Processamento concluído!")
-print(f"Total de páginas processadas: {len(dados_pdf)}")
+print("\nProcessamento concluído!")
+
+print(dados_pdf)  # Exibir as primeiras 3 páginas para verificação
 
 # Análise básica do conteúdo
 def analisar_conteudo_escala(dados_pdf):
@@ -271,7 +272,7 @@ elif not OCR_DISPONIVEL:
 print(f"\n=== RESUMO FINAL ===")
 print(f"Arquivo processado: {os.path.basename(path)}")
 print(f"Páginas: {num_paginas}")
-print(f"Método PyPDF2: {'✅ Sucesso' if any(len(p['texto']) > 0 for p in dados_pdf) else '❌ Sem texto'}")
+print(f"Método PyPDF2: {'[OK] Sucesso' if any(len(p['texto']) > 0 for p in dados_pdf) else '[ERRO] Sem texto'}")
 
 # Função para processar dados de escala (se houver)
 def processar_escala_azul(dados):
@@ -298,7 +299,11 @@ if 'tabelas' in locals():
     escalas = processar_escala_azul(tabelas)
     print(f"Escalas processadas: {len(escalas)}")
 
-print("\n🎯 PRÓXIMOS PASSOS:")
+print("\nPRÓXIMOS PASSOS:")
 print("1. Analise os arquivos CSV gerados")
 print("2. Identifique padrões nos dados")
 print("3. Ajuste o processamento conforme necessário")
+
+escalas_processadas = processar_escala_azul(dados_pdf)
+
+print(escalas_processadas)
