@@ -154,14 +154,14 @@ def parse_datetime_safe(val):
     - datetime/Timestamp -> retornado coerced
     """
     if isinstance(val, (pd.Timestamp, datetime)):
-        return pd.to_datetime(val, errors='coerce')
+        return pd.to_datetime(val, errors='coerce', dayfirst=True)
     s = str(val).strip()
     if _RE_YMD.match(s):
-        return pd.to_datetime(s, errors='coerce', dayfirst=False)
+        return pd.to_datetime(s, errors='coerce', dayfirst=True)
     if _RE_DMY.match(s):
         return pd.to_datetime(s, errors='coerce', dayfirst=True)
     # Fallback conservador
-    return pd.to_datetime(s, errors='coerce', dayfirst=False)
+    return pd.to_datetime(s, errors='coerce', dayfirst=True)
 
 def parse_mixed_datetime_series(serie):
     """Aplica parse_datetime_safe elemento a elemento (suporta formatos mistos)."""
@@ -179,7 +179,7 @@ def carregar_feriados():
         feriados = pd.read_json(caminho_feriados)
 
         # Garantir datetime real na coluna 'date'
-        feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce')
+        feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=True)
 
         print(f"📅 Feriados carregados: {len(feriados)}")
         # Para exibição, use uma cópia formatada
@@ -408,7 +408,7 @@ carregar_tipos_voo()
 feriados = carregar_feriados()
 # Coloque este bloco logo após o carregamento:
 if isinstance(feriados, pd.DataFrame) and not feriados.empty:
-    feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=False)
+    feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=True)
     datas_feriado = set(feriados['date'].dt.date)
     datas_vespera = set((feriados['date'] - pd.Timedelta(days=1)).dt.date)
     print(f"✅ Feriados carregados: {len(datas_feriado)} datas")
@@ -504,8 +504,8 @@ def classificar_horas_especiais(checkin, checkout, feriados_list=None):
 ########################################
 
     # como verificar se checkin e checkout são válidos
-    #checkin = pd.to_datetime(checkin, format="%Y-%m-%d %H:%M:%S")
-    #checkout = pd.to_datetime(checkout, format="%Y-%m-%d %H:%M:%S")
+    #checkin = pd.to_datetime(checkin, format="%Y-%m-%d %H:%M:%S", dayfirst=True)
+    #checkout = pd.to_datetime(checkout, format="%Y-%m-%d %H:%M:%S", dayfirst=True)
     checkin = parse_datetime_safe(checkin)
     checkout = parse_datetime_safe(checkout)
     
@@ -661,6 +661,104 @@ def classificar_horas_especiais(checkin, checkout, feriados_list=None):
     return resultado
 
 # Teste corrigido
+
+# ===================== UNIVERSAL DEG + DATAS (v5 final) =====================
+from pathlib import Path as _P
+from datetime import datetime as _DT
+import re as _R
+import tkinter as _TK
+from tkinter import filedialog as _FD
+import pandas as _PD
+from pandas import DataFrame as _DF
+
+# 1) Seleção única + nomes com timestamp
+_SEL = None  # type: _P | None
+def select_working_directory() -> str:
+    global _SEL
+    _root = _TK.Tk(); _root.withdraw(); _root.attributes("-topmost", True)
+    caminho = _FD.askopenfilename(title="Selecione o CSV de entrada", filetypes=[("CSV","*.csv"),("Todos","*.*")])
+    try: _root.destroy()
+    except Exception: pass
+    if not caminho: raise SystemExit("Nenhum arquivo selecionado. Operação cancelada.")
+    _SEL = _P(caminho).resolve()
+    outdir = _P(str(_SEL.parent).replace("Escalas_Executadas","Auditoria_Calculos"))
+    outdir.mkdir(parents=True, exist_ok=True)
+    return str(outdir)
+
+def select_input_file() -> str:
+    if _SEL is None: raise RuntimeError("select_input_file() antes de select_working_directory().")
+    return _SEL.name
+
+_RX = _R.compile(r"(?:_(?:PRIMEIRA|SEGUNDA|TERCEIRA|QUARTA)_VERSAO)(?:_\d{8}(?:_\d{6})?)?$", _R.IGNORECASE)
+def _clean(stem:str)->str:
+    while True:
+        n = _RX.sub("", stem)
+        if n == stem: return n
+        stem = n
+
+def montar_caminho_arquivo(working_directory:str, input_file:str, sufixo:str, ext:str=".csv", add_timestamp:bool=True)->str:
+    base = _P(working_directory); base.mkdir(parents=True, exist_ok=True)
+    stem = _clean(_P(input_file).stem)
+    ts = f"_{_DT.now().strftime('%Y%m%d_%H%M%S')}" if add_timestamp else ""
+    return str(base / f"{stem}_{sufixo}{ts}{ext}")
+
+# 2) Uniformização de datas ao SALVAR (sem apagar valores não reconhecidos)
+_DATE_COLS = ("Checkin","Start","End","Checkout")
+_ISO_RX = _R.compile(r"^\s*\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}(:\d{2})?\s*$")
+_DDMM_RX = _R.compile(r"^\s*\d{1,2}/\d{1,2}/\d{4}\s+\d{2}:\d{2}(:\d{2})?\s*$")
+_EMPTY_RX = _R.compile(r"^\s*$|^-\s*$|^(nan|NaN|null|None)$")
+
+def _fmt_dates(df:_PD.DataFrame)->_PD.DataFrame:
+    out = df.copy()
+    for col in _DATE_COLS:
+        if col not in out.columns: continue
+        s = out[col].astype(str)
+        empty = s.str.match(_EMPTY_RX, na=True)
+        iso   = s.str.match(_ISO_RX, na=False)
+        ddmm  = s.str.match(_DDMM_RX, na=False)
+        # default: keep original text
+        out[col] = s
+
+        # ISO → parse seguro
+        if iso.any():
+            p = _PD.to_datetime(s[iso], errors="coerce", dayfirst=False)
+            ok = p.notna()
+            out.loc[iso & ok, col] = p[ok].dt.strftime("%d/%m/%Y %H:%M")
+        # DD/MM → parse com dayfirst
+        if ddmm.any():
+            p = _PD.to_datetime(s[ddmm], errors="coerce", dayfirst=True)
+            ok = p.notna()
+            out.loc[ddmm & ok, col] = p[ok].dt.strftime("%d/%m/%Y %H:%M")
+        # vazios mantêm
+        out.loc[empty, col] = s[empty]
+    return out
+
+_APOS_COLS = [
+    "Activity","Id_Leg","Checkin","Start","End","Checkout",
+    "Tempo Apos Corte Diurno","Tempo Apos Corte Noturno",
+    "Tempo Apos Corte Especial Diurno","Tempo Apos Corte Especial Noturno",
+]
+
+if not hasattr(_DF, "_v5_to_csv"):
+    _orig_to_csv = _DF.to_csv
+    def _to_csv_v5(self, path_or_buf=None, *args, **kwargs):
+        try: name = str(path_or_buf) if path_or_buf is not None else ""
+        except Exception: name = ""
+        df = self.copy()
+        if "_APOS_CORTE" in name:
+            for c in _APOS_COLS:
+                if c not in df.columns: df[c] = ""
+            for extra in ("Dep","Arr","Tempo Apos Corte"):
+                if extra in df.columns: df = df.drop(columns=[extra])
+            df = df.reindex(columns=_APOS_COLS)
+        df = _fmt_dates(df)  # aplica datas uniformes
+        return _orig_to_csv(df, path_or_buf, *args, **kwargs)
+    _DF.to_csv = _to_csv_v5
+    _DF._v5_to_csv = True
+
+# ===================== FIM UNIVERSAL DEG + DATAS (v5 final) =====================
+
+
 if __name__ == "__main__":
     # Exemplo com o caso apresentado
     #checkin = "2017-11-15 04:00:00"
@@ -781,7 +879,7 @@ for col in ['Feriado', 'Vespera']:
 # Certifica que as colunas de data estão em datetime
 for col in ['Checkin', 'Start', 'End', 'Checkout']:
     if df[col].dtype == 'object':
-        df[col] = pd.to_datetime(df[col], errors='coerce')
+        df[col] = pd.to_datetime(df[col], errors='coerce', dayfirst=True)
 
 # Verificar se feriados é um DataFrame válido
 if isinstance(feriados, pd.DataFrame) and not feriados.empty:
@@ -930,7 +1028,7 @@ def verificar_horario_especial(checkin, start, end, checkout, feriados_df):
             return False
         
         if isinstance(feriados, pd.DataFrame) and not feriados.empty:
-            feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=False)
+            feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=True)
             datas_feriado = set(feriados['date'].dt.date)
             datas_vespera = set((feriados['date'] - pd.Timedelta(days=1)).dt.date)
         else:
@@ -947,7 +1045,7 @@ def verificar_horario_especial(checkin, start, end, checkout, feriados_df):
             return False
     
         if isinstance(feriados, pd.DataFrame) and not feriados.empty:
-            feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=False)
+            feriados['date'] = pd.to_datetime(feriados['date'], errors='coerce', dayfirst=True)
             datas_feriado = set(feriados['date'].dt.date)
             datas_vespera = set((feriados['date'] - pd.Timedelta(days=1)).dt.date)
         else:
@@ -1170,7 +1268,7 @@ for coluna in colunas_necessarias:
     if coluna in df.columns:
         if df[coluna].dtype == 'object':
             print(f"🔄 Convertendo coluna '{coluna}' para datetime...")
-            df[coluna] = pd.to_datetime(df[coluna], errors='coerce')
+            df[coluna] = pd.to_datetime(df[coluna], errors='coerce', dayfirst=True)
 
 # Aplicar classificação especial
 df_com_especiais = aplicar_classificacao_especial_ao_dataframe(df.copy(), feriados)

@@ -35,11 +35,6 @@ print(f"Nome do arquivo selecionado: {nome_arquivo}")
 # extrair do nome_arquivo o que estiver até o segundo '_' descartando esse valor
 # Exemplo: '2023_10_01_Escala_Simplificada.pdf' -> '2023_10'
 # Se não houver segundo '_', manter o nome original
-partes_nome = nome_arquivo.split('_')
-if len(partes_nome) > 4:
-    nome_arquivo = '_'.join(partes_nome[2:])
-else:
-    nome_arquivo = partes_nome[0]
 
 # nome_arquivo = nome_arquivo.replace('.pdf', '.txt')  # substitui a extensão .pdf por .txt
 nome_arquivo = nome_arquivo.replace('.pdf', '_PRIMEIRA_VERSAO.csv')

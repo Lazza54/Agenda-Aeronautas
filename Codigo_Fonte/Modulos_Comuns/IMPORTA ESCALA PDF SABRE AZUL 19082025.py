@@ -5,18 +5,79 @@ PDF -> CSV (escala) — parser por TEXTO (pdfplumber.extract_text)
 CSV (UTF-8 BOM) com cabeçalho EXATO:
 Activity, Checkin, Start, Dep, Arr, End, Checkout, AcVer, DD, CAT, Crew
 """
-
 import os
 import re
 import sys
 import unicodedata
 import tkinter as tk
-from tkinter import filedialog, messagebox
+from tkinter import messagebox
 from datetime import datetime, timedelta
 from typing import List, Optional, Tuple
 
 import pandas as pd
 import pdfplumber
+
+# =============== [BLOCO IMPORTADO DO MÓDULO DE SELEÇÃO/NOME SAÍDA] ===============
+# (Substitui toda a lógica de seleção de arquivo e geração do nome de saída)
+from tkinter import filedialog
+
+# Variáveis globais para armazenar o diretório e arquivo de entrada
+diretorio_entrada = ""
+arquivo_entrada = ""
+sufixo = '_PRIMEIRA_VERSAO'
+
+def selecionar_diretorio_arquivo():
+    """Abre diálogo para escolher um arquivo; retorna (diretorio, arquivo) ou (None, None)."""
+    global diretorio_entrada, arquivo_entrada
+    try:
+        root = tk.Tk(); root.withdraw()
+        caminho_completo = filedialog.askopenfilename(
+            title="Selecione um arquivo",
+            filetypes=[
+                ("Arquivos PDF", "*.pdf"),
+                ("Todos os arquivos", "*.*"),
+            ]
+        )
+        if caminho_completo:
+            diretorio_entrada = os.path.dirname(caminho_completo)
+            arquivo_entrada = os.path.basename(caminho_completo)
+            print(f"Diretório selecionado: {diretorio_entrada}")
+            print(f"Arquivo selecionado: {arquivo_entrada}")
+            return diretorio_entrada, arquivo_entrada
+        else:
+            print("Nenhum arquivo foi selecionado.")
+            return None, None
+    except Exception as e:
+        print(f"Erro ao selecionar arquivo: {e}")
+        return None, None
+    finally:
+        try: root.destroy()
+        except: pass
+
+def gera_arquivo_saida(sufixo_local=None):
+    """
+    Gera caminho do arquivo de saída a partir do arquivo escolhido.
+    Mantém a extensão original; quem chama pode sobrescrever para .csv.
+    """
+    global diretorio_entrada, arquivo_entrada
+    if not diretorio_entrada or not arquivo_entrada:
+        print("Erro: Nenhum arquivo de entrada selecionado. Execute selecionar_diretorio_arquivo() primeiro.")
+        return None
+    if sufixo_local is None:
+        sufixo_local = globals().get('sufixo', '_PRIMEIRA_VERSAO')
+    try:
+        nome_sem_ext, extensao = os.path.splitext(arquivo_entrada)
+        if '-' in nome_sem_ext:
+            partes = nome_sem_ext.rsplit('-', 1)
+            nome_base = partes[0]
+            novo_nome = f"{nome_base} {sufixo_local}{extensao}"
+        else:
+            novo_nome = f"{nome_sem_ext} {sufixo_local}{extensao}"
+        return os.path.join(diretorio_entrada, novo_nome)
+    except Exception as e:
+        print(f"Erro ao gerar arquivo de saída: {e}")
+        return None
+# =============== [FIM DO BLOCO IMPORTADO] ========================================
 
 CSV_COLUMNS = ["Activity", "Checkin", "Start", "Dep", "Arr", "End", "Checkout", "AcVer", "DD", "CAT", "Crew"]
 IATA_BLACKLIST = {"UTC", "LOC", "LT", "GND", "CA"}
@@ -31,18 +92,6 @@ def _erro(msg: str):
     print("ERRO:", msg, file=sys.stderr)
     try: messagebox.showerror("Erro", msg)
     except tk.TclError: pass
-
-def escolher_pdf() -> str:
-    root = tk.Tk(); root.withdraw()
-    path = filedialog.askopenfilename(
-        title="Selecione o PDF de escala",
-        filetypes=[("Arquivos PDF", "*.pdf")],
-    )
-    return path or ""
-
-def csv_path_para(pdf_path: str) -> str:
-    base, _ = os.path.splitext(pdf_path)
-    return base + "_PRIMEIRA_VERSAO.csv"
 
 # ---------------- helpers ----------------
 MONTHS = {
@@ -74,9 +123,7 @@ def _extract_lines(pdf_path: str) -> List[str]:
     return lines
 
 def _parse_date_header(line: str) -> Optional[str]:
-    """
-    'Tue, 29th July 2025 (Local time)' -> '29/07/2025'
-    """
+    """'Tue, 29th July 2025 (Local time)' -> '29/07/2025'"""
     m = re.search(r"\b(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z\.]{3,})\s+(\d{4})\b", line)
     if not m: return None
     d = int(m.group(1)); mon_key = m.group(2).lower(); y = int(m.group(3))
@@ -85,10 +132,7 @@ def _parse_date_header(line: str) -> Optional[str]:
     return f"{d:02d}/{mth:02d}/{y:04d}"
 
 def _times_with_plus_and_pos(line: str) -> List[Tuple[str, bool, int, int]]:
-    """
-    Retorna [(HH:MM, plus_one, start_idx, end_idx)].
-    Detecta '12:00 +1' mesmo com espaços variados.
-    """
+    """Retorna [(HH:MM, plus_one, start_idx, end_idx)] e detecta '12:00 +1'."""
     out = []
     for m in re.finditer(r"\b([01]?\d|2[0-3]):([0-5]\d)\b", line):
         hhmm = f"{m.group(1)}:{m.group(2)}"
@@ -109,10 +153,7 @@ def _flight_code(line: str) -> Optional[str]:
     return f"{m.group(1)}{m.group(2)}".upper() if m else None
 
 def _generic_code_at_start(line: str) -> Optional[str]:
-    """
-    Captura códigos tipo 'SFX', 'SIM', 'DUTY' etc no INÍCIO da linha,
-    ignorando OFF/GROUND/APRESENTACAO/RELEASE.
-    """
+    """Captura códigos tipo 'SFX', 'SIM', 'DUTY' etc no INÍCIO da linha, ignorando OFF/GROUND/APRESENTACAO/RELEASE."""
     m = re.match(r"^([A-Z]{2,8})\b", line)
     if not m: return None
     code = m.group(1)
@@ -131,11 +172,7 @@ def _iatas_after(line: str, pos: int) -> List[str]:
     return [t for t in toks if t not in IATA_BLACKLIST]
 
 def _token_right_after(line: str, pos: int) -> str:
-    """
-    Pega o 1º token ÚTIL após 'pos', pulando '+1' e separadores.
-    Preferência por IATA (AAA). Se não houver IATA, pega token alfanumérico.
-    Ex.: '12:00 - 12:00 +1 VCP' -> 'VCP'
-    """
+    """Pega o 1º token útil após 'pos', pulando '+1' e separadores. Preferência por IATA."""
     idx = pos
     while True:
         m_skip = re.match(r"\s*(\+1|[-–—/|])\s*", line[idx:])
@@ -158,7 +195,7 @@ def _cat_token(line: str) -> str:
     return m.group(1).upper() if m else ""
 
 # ---------------- core ----------------
-def pdf_para_csv(pdf_path: str) -> str:
+def pdf_para_csv(pdf_path: str, out_csv: Optional[str] = None) -> str:
     if not os.path.isfile(pdf_path):
         raise FileNotFoundError("PDF não encontrado.")
 
@@ -210,7 +247,7 @@ def pdf_para_csv(pdf_path: str) -> str:
             activity = _paren_content(ln) or "OFF"
             tms = _times_with_plus_and_pos(ln)
 
-            # Dep/Arr logo após o 2º horário (pulando '+1')
+            # Dep/Arr logo após o último horário (pulando '+1')
             dep = arr = ""
             if tms:
                 pos_after_last_time = tms[-1][3]
@@ -241,7 +278,7 @@ def pdf_para_csv(pdf_path: str) -> str:
                 last_task_idx = len(rows) - 1
             continue
 
-        # ========= GROUND — preservado como estava (gera SAF/EAD/SFX) =========
+        # ========= GROUND =========
         if lnl.startswith("ground") or " ground" in lnl:
             activity = _paren_content(ln) or "GROUND"
             tms = _times_with_plus_and_pos(ln)
@@ -249,7 +286,7 @@ def pdf_para_csv(pdf_path: str) -> str:
             end   = _combine_dt_plus(current_date, tms[1][0], tms[1][1]) if (current_date and len(tms) >= 2) else ""
             dep = arr = ""
             if len(tms) >= 2:
-                token = _token_right_after(ln, tms[1][3])  # pula '+1' e separadores
+                token = _token_right_after(ln, tms[1][3])
                 if token:
                     dep = token; arr = token
                 else:
@@ -257,7 +294,7 @@ def pdf_para_csv(pdf_path: str) -> str:
                     if after_iatas:
                         dep = after_iatas[0]; arr = after_iatas[0]
             row = {
-                "Activity": activity,   # SAF / EAD / SFX...
+                "Activity": activity,
                 "Checkin":  start,
                 "Start":    start,
                 "Dep":      dep,
@@ -274,7 +311,7 @@ def pdf_para_csv(pdf_path: str) -> str:
             last_task_idx = len(rows) - 1
             continue
 
-        # ========= RESERVA (SEA) — tratar como voo normal =========
+        # ========= RESERVA (SEA) =========
         if "reserva" in lnl and "(sea" in lnl:
             if current_date:
                 tms = _times_with_plus_and_pos(ln)
@@ -329,7 +366,7 @@ def pdf_para_csv(pdf_path: str) -> str:
             last_task_idx = len(rows) - 1
             continue
 
-        # ========= Códigos genéricos no começo (SFX, SIM, DUTY etc.) =========
+        # ========= Códigos genéricos (SFX, SIM, DUTY etc.) =========
         gen = _generic_code_at_start(ln)
         if gen and current_date:
             tms = _times_with_plus_and_pos(ln)
@@ -364,16 +401,29 @@ def pdf_para_csv(pdf_path: str) -> str:
         if c not in df.columns: df[c] = ""
     df = df[CSV_COLUMNS]
 
-    out_csv = csv_path_para(pdf_path)
+        # caminho de saída
+    if not out_csv:
+        dir_  = os.path.dirname(pdf_path)
+        base  = os.path.splitext(os.path.basename(pdf_path))[0]
+        out_csv = os.path.join(dir_, f"{base}_PRIMEIRA_VERSAO.csv")
+
+
     df.to_csv(out_csv, index=False, encoding="utf-8-sig")
     return out_csv
 
 # ---------------- main ----------------
 def main():
-    pdf_path = escolher_pdf()
-    if not pdf_path:
+    # Seleção via módulo integrado
+    diretorio, arquivo = selecionar_diretorio_arquivo()
+    if not (diretorio and arquivo):
         _erro("Nenhum PDF selecionado.")
         return
+
+    pdf_path = os.path.join(diretorio, arquivo)
+    if not pdf_path.lower().endswith(".pdf"):
+        _erro("O arquivo selecionado não é um PDF.")
+        return
+
     try:
         out_csv = pdf_para_csv(pdf_path)
     except Exception as e:
@@ -382,3 +432,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# -*- coding: utf-8 -*-
